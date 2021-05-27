@@ -1,0 +1,27 @@
+# NAME :- SHAH JAINAM DINESHKUMAR
+# NSID :- AYQ754
+# STUDENT NUMBER :- 11321534
+# INSTRUCTOR'S NAME :- Nisha Puthiyedth
+# COURSE :- CMPT 141
+
+TEST 1
+
+Enter the encoded string :3xyzab
+Enter the location of the number in the encoded string :1
+Decoded string :  bazyx
+The Key character of the decoded string is : z
+____________________________________________________________________________________________________
+
+TEST 2
+
+Enter the encoded string :ded3kjn
+Enter the location of the number in the encoded string :4
+Decoded string :  njkdeddedded
+The Key character of the decoded string is : d
+______________________________________________________________________________________________________
+TEST 3
+
+Enter the encoded string :dqdwqd4
+Enter the location of the number in the encoded string :7
+Decoded string :  dqwdqddqwdqddqwdqddqwdqd
+The Key character of the decoded string is : d
