@@ -1,0 +1,43 @@
+# NAME :- SHAH JAINAM DINESHKUMAR
+# NSID :- AYQ754
+# STUDENT NUMBER :- 11321534
+# INSTRUCTOR'S NAME :- Nisha Puthiyedth
+# COURSE :- CMPT 141
+
+Answer:-
+
+(a) Function Parameters:
+		- num_handsan
+		- price_handsan
+		- discount 
+		- cost
+
+(b)Function Arguments:
+		- 1			- 19.99
+		- 20.00		- 2.00
+		- 0			- 7
+		- 3			- 15.50
+		- 5.00
+		- total_before_tax
+
+(c)Variables which are not arguments or parameters: 
+		- total_before_tax
+		- total_after_tax
+		- total_after_discount
+		- customer1
+		- customer2
+		- customer3
+		
+(d)Scope of variables
+		total_after_tax = local variable
+		cost			= local variable
+		customer2       = global variable
+
+(e)Number of function definitions:
+		- 2 (calculate_handsan, add_tax)
+
+(f)Number of function calls:
+		- 6
+
+(g)Value of customer1:
+		- 23.0
