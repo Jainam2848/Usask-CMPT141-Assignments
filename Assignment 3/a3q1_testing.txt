@@ -1,0 +1,42 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jun  3 17:30:15 2021
+
+@author: JAINAM SHAH
+"""
+
+# NAME :- SHAH JAINAM DINESHKUMAR
+# NSID :- AYQ754
+# STUDENT NUMBER :- 11321534
+# INSTRUCTOR'S NAME :- Nisha Puthiyedth
+# COURSE :- CMPT 141
+
+TEST-1 
+
+Enter the First name of student :jainam
+F is the random character
+The student , Jainam is not choosen for background research group
+Jainam is assigned to Group Three
+
+----------------------------------------------------
+
+TEST-2
+
+Enter the First name of student :Nisha
+J is the random character
+The student , Nisha is not choosen for background research group
+Nisha is assigned to Group Three
+
+----------------------------------------------------
+
+Test-3
+
+Enter the First name of student :raj
+A is the random character
+The student , Raj is not choosen for background research group
+Raj is assigned to Group Three
+
+*********************** END ************************
+
+
+
