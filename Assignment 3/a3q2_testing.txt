@@ -1,0 +1,86 @@
+# NAME :- SHAH JAINAM DINESHKUMAR
+# NSID :- AYQ754
+# STUDENT NUMBER :- 11321534
+# INSTRUCTOR'S NAME :- Nisha Puthiyedth
+# COURSE :- CMPT 141
+
+TEST 1-
+
+Enter initial mass (in grams) :80
+Enter half life of the material :3
+After  0 days there are 80.0  grams remaining
+After  1 days there are 63.49604207872798  grams remaining
+After  2 days there are 50.39684199579493  grams remaining
+After  3 days there are 40.0  grams remaining
+After  4 days there are 31.74802103936399  grams remaining
+After  5 days there are 25.198420997897465  grams remaining
+After  6 days there are 20.0  grams remaining
+After  7 days there are 15.874010519681994  grams remaining
+After  8 days there are 12.599210498948732  grams remaining
+After  9 days there are 10.0  grams remaining
+After  10 days there are 7.937005259840997  grams remaining
+After  11 days there are 6.299605249474366  grams remaining
+After  12 days there are 5.0  grams remaining
+After  13 days there are 3.9685026299204997  grams remaining
+After  14 days there are 3.149802624737182  grams remaining
+After  15 days there are 2.5  grams remaining
+After  16 days there are 1.9842513149602499  grams remaining
+After  17 days there are 1.574901312368591  grams remaining
+After  18 days there are 1.25  grams remaining
+After  19 days there are 0.9921256574801249  grams remaining
+After  20 days there are 0.7874506561842955  grams remaining
+
+***Repl Closed***
+
+------------------------------------------------------------------------------------------------
+
+TEST-2
+
+Enter initial mass (in grams) :100
+Enter half life of the material :2
+After  0 days there are 100.0  grams remaining
+After  1 days there are 70.71067811865476  grams remaining
+After  2 days there are 50.0  grams remaining
+After  3 days there are 35.35533905932738  grams remaining
+After  4 days there are 25.0  grams remaining
+After  5 days there are 17.67766952966369  grams remaining
+After  6 days there are 12.5  grams remaining
+After  7 days there are 8.838834764831844  grams remaining
+After  8 days there are 6.25  grams remaining
+After  9 days there are 4.419417382415922  grams remaining
+After  10 days there are 3.125  grams remaining
+After  11 days there are 2.209708691207961  grams remaining
+After  12 days there are 1.5625  grams remaining
+After  13 days there are 1.1048543456039805  grams remaining
+After  14 days there are 0.78125  grams remaining
+
+***Repl Closed***
+
+------------------------------------------------------------------------------------------------
+
+TEST-3
+
+Enter initial mass (in grams) :10
+Enter half life of the material :1
+After  0 days there are 10.0  grams remaining
+After  1 days there are 5.0  grams remaining
+After  2 days there are 2.5  grams remaining
+After  3 days there are 1.25  grams remaining
+After  4 days there are 0.625  grams remaining
+After  5 days there are 0.3125  grams remaining
+After  6 days there are 0.15625  grams remaining
+After  7 days there are 0.078125  grams remaining
+
+***********************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
