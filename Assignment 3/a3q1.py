@@ -14,7 +14,7 @@ random_char = r.choice(s.ascii_uppercase)
 print(random_char, "is the random character")
 
 if random_char!=Name[0]:
-    print("The student ,", Name, "is not chosen for background research group")
+    print("The student ,", Name, "is not choosen for background research group")
     
 if random_char==Name[0]:
     print(Name," is choosen for background research team")
