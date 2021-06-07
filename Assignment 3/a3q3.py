@@ -36,6 +36,9 @@ while True:
         gap_year_country = input("Which another country from Bucket list you want to add in gap year list ? :")
         gap_year.append(gap_year_country)
         Bucket_list.remove(gap_year_country)
+        expand_gap_year = input("Would you like to add more countries to your gap year list ?")
+        if expand_gap_year=="n":
+            break
     if expand_gap_year=="n":
         break
 
