@@ -1,3 +1,10 @@
+# NAME :- SHAH JAINAM DINESHKUMAR
+# NSID :- AYQ754
+# STUDENT NUMBER :- 11321534
+# INSTRUCTOR'S NAME :- Nisha Puthiyedth
+# COURSE :- CMPT 141
+
+
 def is_prime(N):
     """
     Determines whether a given positive integer is prime or not
@@ -18,8 +25,6 @@ def is_prime(N):
         
     return True
 
-dic = {}
-#print(is_prime(1))
 def read(file_name):
     """
     parameter :The function will only take the name of file
@@ -28,6 +33,8 @@ def read(file_name):
     
        
     """
+    dic = {}
+
     file = open(file_name, 'r')
     
     for i in file.readlines():
@@ -35,9 +42,8 @@ def read(file_name):
         results= is_prime(num)
         
         dic.update({num:results})
+        file.close()
     return dic
-    #print(dic)
-    file.close()
 
 print(read("a4q3.txt"))
     
