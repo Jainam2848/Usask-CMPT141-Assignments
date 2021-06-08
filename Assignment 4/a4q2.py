@@ -19,6 +19,7 @@ o = 0
 for line in a.readlines():
     l = [x for x in line.split()]
     lst.append(l)
+    a.close()    
 
 #converting lst to array
 board = np.array(lst)
