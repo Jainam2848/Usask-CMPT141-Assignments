@@ -8,13 +8,7 @@
 
 populationsSK = [ [' Pelican Narrows ', 2703] ,['Saskatoon' , 222035] ,['Moose Jaw' , 33617] ,['La Ronge' , 5905] ]
 citiesSK = []
-"""
-for x in populationsSK :
-    if x [1] >= 10000:
-        citiesSK.append(x)
-print(citiesSK)
 
-"""
 #part a=============================================================================================
 
 citiesSK = [x for x in populationsSK if x[1]>=10000]
