@@ -1,0 +1,63 @@
+NEWGAME Ash Gary
+x 0 0
+o 1 0
+x 0 1
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Gary Ash
+x 0 0
+o 1 0
+x 0 1
+o 1 1
+x 2 2
+o 1 2
+ENDGAME
+NEWGAME Ash Gary
+x 0 0
+o 0 1
+x 1 0
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME Gary Ash
+x 0 0
+o 0 1
+x 1 0
+o 1 1
+x 2 2
+o 2 1
+ENDGAME
+NEWGAME Ash Gary
+x 0 0
+o 1 0
+x 1 1
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Gary Ash
+x 1 0
+o 0 0
+x 0 1
+o 1 1
+x 0 2
+o 2 2
+ENDGAME
+NEWGAME Ash Gary
+x 0 2
+o 0 1
+x 1 1
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Gary Ash
+x 0 1
+o 0 2
+x 1 0
+o 1 1
+x 0 0
+o 2 0
+ENDGAME
+NEWGAME Ash Gary
+ENDGAME
+DONE
