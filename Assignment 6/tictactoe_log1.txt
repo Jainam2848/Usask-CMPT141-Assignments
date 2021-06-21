@@ -1,0 +1,7607 @@
+NEWGAME Gary Jessie
+x 1 0
+o 0 0
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME Ash James
+x 2 1
+o 2 0
+x 2 2
+o 0 2
+x 0 1
+o 0 0
+x 1 0
+o 1 1
+ENDGAME
+NEWGAME Misty Jessie
+x 0 1
+o 2 0
+x 1 0
+o 0 2
+x 0 0
+o 2 2
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME Brock Jessie
+x 0 1
+o 2 0
+x 1 0
+o 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 0 2
+o 0 0
+x 0 1
+o 1 1
+ENDGAME
+NEWGAME Misty Ash
+x 2 2
+o 0 1
+x 1 1
+o 2 0
+x 2 1
+o 1 0
+x 0 0
+ENDGAME
+NEWGAME James Jessie
+x 2 2
+o 1 1
+x 2 0
+o 1 2
+ENDGAME
+NEWGAME Misty Ash
+x 0 2
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+ENDGAME
+NEWGAME Brock Gary
+x 0 1
+o 2 2
+x 0 0
+o 1 0
+ENDGAME
+NEWGAME Jessie Misty
+x 1 0
+o 0 2
+x 2 1
+o 1 2
+x 1 1
+o 0 1
+ENDGAME
+NEWGAME James Gary
+x 1 2
+o 0 0
+x 0 2
+o 2 2
+ENDGAME
+NEWGAME Brock James
+x 0 2
+o 1 1
+x 1 0
+o 2 2
+x 0 0
+o 2 0
+x 0 1
+ENDGAME
+NEWGAME Misty Gary
+x 1 2
+o 0 0
+x 0 1
+o 1 1
+x 1 0
+o 0 2
+x 2 0
+o 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 1
+o 1 1
+x 2 2
+o 0 0
+x 1 2
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME Jessie Misty
+x 0 0
+o 1 0
+x 1 2
+o 1 1
+x 2 1
+o 0 2
+x 0 1
+o 2 2
+x 2 0
+ENDGAME
+NEWGAME Gary Brock
+x 1 1
+o 0 2
+x 0 1
+ENDGAME
+NEWGAME Jessie Misty
+x 2 0
+o 1 0
+x 1 1
+o 2 1
+x 0 1
+o 1 2
+x 0 0
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME James Jessie
+x 2 2
+o 0 1
+x 0 2
+o 2 1
+x 0 0
+o 2 0
+x 1 0
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Misty Jessie
+x 1 1
+ENDGAME
+NEWGAME Jessie James
+x 0 1
+o 2 1
+x 1 0
+o 2 0
+x 2 2
+o 1 2
+x 0 0
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Gary Misty
+x 0 1
+ENDGAME
+NEWGAME Ash Gary
+x 2 2
+o 2 1
+x 0 0
+o 1 1
+ENDGAME
+NEWGAME Gary James
+x 1 1
+o 2 0
+x 2 2
+o 1 2
+x 0 1
+o 0 2
+x 1 0
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Misty Ash
+x 2 0
+ENDGAME
+NEWGAME Gary Brock
+x 0 1
+o 1 0
+x 2 1
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Brock Misty
+x 2 0
+o 0 0
+x 2 2
+o 1 0
+x 1 2
+o 2 1
+x 1 1
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Jessie Misty
+x 1 1
+o 0 2
+x 2 1
+o 1 0
+ENDGAME
+NEWGAME Brock Gary
+x 2 0
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Gary James
+x 0 2
+o 1 0
+x 2 0
+o 2 2
+ENDGAME
+NEWGAME Jessie Gary
+x 1 0
+o 2 0
+x 0 2
+o 2 1
+x 1 1
+o 1 2
+x 0 1
+o 2 2
+ENDGAME
+NEWGAME Brock Jessie
+x 1 1
+o 2 0
+x 2 1
+o 1 2
+x 0 0
+o 1 0
+ENDGAME
+NEWGAME Brock Jessie
+x 2 0
+o 2 2
+x 0 2
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Jessie Ash
+x 0 0
+o 2 1
+x 1 2
+o 2 0
+x 0 1
+o 1 0
+x 2 2
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME James Brock
+x 1 0
+o 1 1
+x 0 0
+o 0 1
+x 2 2
+o 0 2
+ENDGAME
+NEWGAME Gary Misty
+x 2 2
+o 0 1
+x 2 1
+o 1 1
+x 0 2
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Jessie James
+x 0 0
+o 2 0
+x 1 0
+o 1 2
+x 1 1
+o 0 1
+x 2 1
+o 0 2
+x 2 2
+ENDGAME
+NEWGAME Misty Gary
+x 1 2
+o 0 1
+x 1 0
+o 1 1
+x 0 0
+o 2 2
+x 2 0
+ENDGAME
+NEWGAME Gary Brock
+x 1 1
+o 0 2
+x 0 0
+o 0 1
+x 1 2
+o 2 2
+x 1 0
+ENDGAME
+NEWGAME Ash Misty
+x 1 1
+o 2 1
+x 2 0
+o 0 0
+x 1 2
+o 0 1
+x 2 2
+o 0 2
+ENDGAME
+NEWGAME Ash Misty
+x 1 2
+o 2 0
+x 0 1
+o 2 1
+x 2 2
+o 1 1
+x 1 0
+o 0 2
+ENDGAME
+NEWGAME James Brock
+x 2 1
+o 2 2
+x 1 1
+o 0 2
+x 2 0
+o 0 0
+x 1 0
+ENDGAME
+NEWGAME Brock Gary
+x 2 0
+o 2 1
+x 1 1
+o 0 1
+x 0 0
+o 0 2
+ENDGAME
+NEWGAME Jessie Gary
+x 0 0
+o 2 0
+x 2 2
+o 1 0
+x 1 1
+ENDGAME
+NEWGAME James Jessie
+x 1 2
+o 1 0
+x 0 2
+o 0 0
+x 0 1
+o 2 2
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Gary Brock
+x 2 0
+o 0 1
+x 0 0
+o 1 2
+x 2 2
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME James Gary
+x 1 2
+o 1 1
+x 2 1
+o 1 0
+x 0 2
+o 0 0
+x 2 0
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Gary Brock
+x 0 0
+o 0 1
+x 0 2
+o 1 2
+x 1 1
+o 2 2
+ENDGAME
+NEWGAME James Brock
+x 0 2
+o 1 0
+x 2 1
+o 0 0
+x 2 0
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Ash Brock
+x 1 1
+o 1 0
+x 1 2
+ENDGAME
+NEWGAME Jessie Gary
+x 2 2
+o 2 0
+x 1 2
+o 0 0
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME James Gary
+x 0 2
+o 2 2
+x 2 1
+o 1 1
+x 0 1
+o 1 0
+x 1 2
+o 0 0
+ENDGAME
+NEWGAME Gary Jessie
+x 0 1
+o 2 1
+x 2 2
+o 1 2
+x 0 0
+o 1 1
+x 2 0
+o 0 2
+ENDGAME
+NEWGAME Misty Gary
+x 2 1
+o 2 0
+x 1 1
+o 2 2
+x 0 2
+o 1 0
+ENDGAME
+NEWGAME Jessie Brock
+x 2 0
+o 1 0
+x 2 1
+o 0 1
+x 1 1
+o 0 2
+x 1 2
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME Misty James
+x 0 2
+o 2 0
+x 1 2
+ENDGAME
+NEWGAME James Jessie
+x 1 0
+ENDGAME
+NEWGAME Ash James
+x 0 2
+o 0 0
+x 0 1
+o 2 1
+x 1 0
+o 2 0
+x 2 2
+o 1 1
+x 1 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 0
+o 1 0
+x 2 2
+o 1 2
+x 1 1
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Misty Gary
+x 2 2
+o 0 0
+x 0 1
+o 0 2
+x 1 1
+o 2 0
+x 1 2
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Gary James
+x 1 0
+o 0 1
+x 2 2
+o 2 1
+x 2 0
+o 0 0
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME James Ash
+x 2 2
+o 1 2
+x 2 1
+o 2 0
+x 0 1
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 2 0
+o 0 1
+x 2 1
+o 0 2
+x 0 0
+o 1 1
+x 2 2
+ENDGAME
+NEWGAME James Misty
+x 0 0
+o 1 2
+x 1 0
+o 2 0
+x 2 1
+ENDGAME
+NEWGAME Brock James
+x 0 2
+o 0 0
+x 0 1
+o 1 2
+x 2 0
+o 2 2
+x 1 0
+o 2 1
+x 1 1
+ENDGAME
+NEWGAME James Brock
+x 1 1
+o 2 0
+x 0 1
+o 0 2
+x 0 0
+o 2 2
+x 1 2
+o 2 1
+ENDGAME
+NEWGAME Jessie Ash
+x 0 1
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME Ash James
+x 2 0
+o 1 0
+x 1 1
+o 2 1
+x 0 0
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Ash Gary
+x 0 2
+o 1 1
+x 2 0
+o 2 2
+x 1 2
+o 1 0
+x 0 1
+o 0 0
+ENDGAME
+NEWGAME Misty Jessie
+x 2 0
+o 2 1
+x 0 0
+o 1 2
+x 1 0
+ENDGAME
+NEWGAME Ash Gary
+x 0 2
+o 0 1
+x 2 0
+o 2 2
+x 1 0
+o 0 0
+x 2 1
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME James Brock
+x 1 1
+o 2 2
+x 0 1
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME Brock Ash
+x 2 0
+o 0 1
+x 2 1
+o 1 0
+x 0 0
+o 0 2
+x 1 1
+o 1 2
+x 2 2
+ENDGAME
+NEWGAME Gary Brock
+x 0 0
+o 2 0
+x 1 1
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Brock James
+x 2 0
+o 2 1
+x 0 0
+o 1 0
+x 1 2
+o 2 2
+x 0 1
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME James Ash
+x 0 2
+o 0 1
+x 1 2
+ENDGAME
+NEWGAME Gary Jessie
+x 0 0
+o 0 1
+x 2 1
+o 0 2
+x 1 1
+o 2 2
+x 1 2
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME James Gary
+x 0 2
+o 0 0
+x 2 1
+o 1 0
+x 2 0
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 0 0
+o 1 0
+x 0 1
+o 2 2
+x 1 2
+o 2 0
+x 2 1
+ENDGAME
+NEWGAME Brock Gary
+x 0 0
+o 0 2
+x 2 0
+o 1 1
+x 0 1
+o 2 1
+x 2 2
+o 1 0
+x 1 2
+ENDGAME
+NEWGAME Jessie James
+x 1 2
+o 0 0
+x 0 2
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME Gary James
+x 0 2
+o 2 0
+x 0 0
+o 2 1
+ENDGAME
+NEWGAME Misty Ash
+x 1 2
+o 2 0
+x 1 1
+o 0 1
+x 0 2
+o 0 0
+x 2 2
+ENDGAME
+NEWGAME Brock Misty
+x 2 0
+o 2 1
+x 0 0
+o 1 0
+x 1 2
+o 0 1
+x 1 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Jessie Ash
+x 0 1
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Jessie Misty
+x 2 1
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME James Ash
+x 0 1
+o 0 0
+x 1 0
+o 2 2
+x 2 0
+o 0 2
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Jessie Misty
+x 1 0
+o 1 1
+x 2 1
+o 0 0
+x 2 2
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME Ash James
+x 2 1
+o 0 0
+x 0 1
+o 2 2
+x 2 0
+o 1 0
+x 0 2
+o 1 1
+ENDGAME
+NEWGAME Misty James
+x 0 1
+o 2 2
+x 2 1
+o 0 2
+x 1 0
+o 1 2
+ENDGAME
+NEWGAME Ash James
+x 2 1
+o 1 2
+ENDGAME
+NEWGAME Jessie Ash
+x 2 2
+o 0 1
+x 1 1
+o 1 0
+x 1 2
+o 2 1
+x 0 0
+ENDGAME
+NEWGAME Brock Misty
+x 2 2
+o 2 1
+ENDGAME
+NEWGAME Gary Misty
+x 0 0
+o 1 1
+x 1 2
+o 2 0
+x 1 0
+o 2 2
+ENDGAME
+NEWGAME Jessie James
+x 0 0
+o 0 1
+x 0 2
+o 2 0
+x 1 2
+o 1 1
+x 1 0
+o 2 2
+x 2 1
+ENDGAME
+NEWGAME Jessie Misty
+x 2 0
+o 2 1
+x 0 1
+o 2 2
+x 0 0
+o 1 0
+x 1 2
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Misty Jessie
+x 0 2
+ENDGAME
+NEWGAME Brock James
+x 2 1
+o 0 1
+ENDGAME
+NEWGAME James Misty
+x 0 2
+o 0 1
+x 2 1
+ENDGAME
+NEWGAME Misty Jessie
+x 2 2
+o 2 1
+x 1 1
+o 0 1
+x 0 0
+ENDGAME
+NEWGAME Misty Gary
+x 0 2
+o 1 1
+x 0 1
+o 1 0
+x 0 0
+ENDGAME
+NEWGAME Ash Gary
+x 0 0
+ENDGAME
+NEWGAME James Jessie
+x 2 0
+o 0 0
+x 2 2
+o 0 1
+x 2 1
+ENDGAME
+NEWGAME Gary James
+x 0 2
+o 2 2
+x 1 1
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Misty Gary
+x 0 1
+o 1 1
+x 0 0
+o 2 0
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME Ash Brock
+x 0 1
+o 2 1
+x 1 0
+o 2 0
+x 1 2
+o 0 0
+x 0 2
+o 2 2
+ENDGAME
+NEWGAME James Ash
+x 1 2
+o 0 0
+x 1 0
+o 2 1
+x 1 1
+ENDGAME
+NEWGAME James Brock
+x 1 1
+ENDGAME
+NEWGAME Gary Misty
+x 1 2
+o 0 2
+x 1 0
+o 0 0
+x 2 0
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Misty Brock
+x 0 0
+o 1 1
+x 2 1
+o 2 2
+x 2 0
+o 0 2
+x 1 2
+o 0 1
+x 1 0
+ENDGAME
+NEWGAME James Jessie
+x 1 1
+o 1 0
+x 0 2
+o 2 0
+x 1 2
+o 0 0
+ENDGAME
+NEWGAME Misty Jessie
+x 2 2
+o 0 2
+x 1 1
+o 1 2
+x 1 0
+o 2 0
+x 2 1
+o 0 1
+x 0 0
+ENDGAME
+NEWGAME Misty Brock
+x 0 2
+o 2 2
+x 0 1
+o 2 0
+ENDGAME
+NEWGAME Gary James
+x 2 2
+o 0 2
+x 2 0
+o 1 0
+x 0 1
+o 1 2
+x 2 1
+ENDGAME
+NEWGAME Misty James
+x 0 0
+o 1 2
+x 2 1
+o 2 0
+x 1 0
+o 0 1
+x 1 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Misty Jessie
+x 2 2
+ENDGAME
+NEWGAME Brock Jessie
+x 0 0
+o 1 0
+x 0 2
+ENDGAME
+NEWGAME James Brock
+x 2 2
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME Gary Ash
+x 2 1
+o 2 0
+x 2 2
+o 0 2
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME Brock Misty
+x 0 2
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Brock James
+x 0 1
+o 1 1
+x 1 2
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME James Gary
+x 1 1
+o 0 2
+x 2 1
+o 0 1
+x 1 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 2
+o 1 1
+x 0 1
+o 1 0
+x 2 0
+o 0 2
+ENDGAME
+NEWGAME Ash Brock
+x 2 0
+o 2 2
+x 1 1
+o 0 2
+x 1 0
+o 0 0
+x 2 1
+o 0 1
+ENDGAME
+NEWGAME Jessie Brock
+x 1 2
+o 0 0
+x 0 1
+o 2 1
+x 1 1
+o 1 0
+x 0 2
+o 2 0
+ENDGAME
+NEWGAME Brock Gary
+x 0 0
+o 0 2
+x 1 0
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME Ash Brock
+x 2 2
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME James Gary
+x 0 1
+ENDGAME
+NEWGAME Ash James
+x 1 0
+o 0 2
+x 2 1
+o 0 0
+x 2 2
+o 1 1
+x 1 2
+o 2 0
+ENDGAME
+NEWGAME Ash Jessie
+x 0 1
+ENDGAME
+NEWGAME Gary Misty
+x 0 1
+o 1 2
+x 2 2
+o 0 0
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Gary Brock
+x 0 0
+o 1 0
+x 1 1
+o 2 1
+x 1 2
+o 2 0
+x 0 2
+o 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 1 0
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Brock Jessie
+x 1 0
+o 1 1
+x 2 0
+o 0 1
+x 1 2
+o 0 2
+x 2 1
+o 0 0
+ENDGAME
+NEWGAME James Brock
+x 1 2
+ENDGAME
+NEWGAME James Gary
+x 0 1
+ENDGAME
+NEWGAME James Brock
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME Gary Ash
+x 0 1
+o 2 0
+x 0 2
+o 1 0
+x 1 1
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME Gary Ash
+x 1 2
+o 0 2
+x 2 2
+o 2 0
+ENDGAME
+NEWGAME Ash James
+x 2 0
+o 0 2
+x 2 1
+o 1 2
+x 1 1
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME Misty James
+x 2 2
+o 1 0
+x 0 1
+o 0 0
+x 2 1
+o 0 2
+x 1 2
+o 2 0
+ENDGAME
+NEWGAME Ash Jessie
+x 1 0
+o 1 2
+x 2 0
+o 0 0
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Misty James
+x 1 2
+o 0 2
+x 2 2
+o 0 1
+x 0 0
+o 2 0
+x 1 0
+o 2 1
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 0 2
+o 1 1
+x 2 2
+o 2 1
+x 0 1
+o 1 0
+x 0 0
+ENDGAME
+NEWGAME Ash Brock
+x 1 2
+o 1 1
+x 2 0
+o 1 0
+x 0 0
+o 2 1
+x 0 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Misty Jessie
+x 2 1
+o 0 1
+x 0 2
+o 0 0
+x 1 1
+o 2 0
+x 1 0
+o 2 2
+x 1 2
+ENDGAME
+NEWGAME James Jessie
+x 0 2
+ENDGAME
+NEWGAME Brock Ash
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Misty Ash
+x 2 0
+o 1 0
+x 2 2
+o 2 1
+x 0 0
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Jessie Gary
+x 1 1
+o 1 0
+ENDGAME
+NEWGAME Misty Ash
+x 0 2
+o 0 0
+x 1 2
+o 2 2
+x 2 0
+o 1 0
+ENDGAME
+NEWGAME Jessie Ash
+x 0 2
+o 1 2
+x 2 0
+o 1 0
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Gary Ash
+x 0 0
+o 0 1
+x 1 0
+o 1 1
+x 2 1
+o 2 2
+x 0 2
+o 2 0
+x 1 2
+ENDGAME
+NEWGAME James Brock
+x 1 2
+o 0 1
+x 1 0
+ENDGAME
+NEWGAME Gary Jessie
+x 1 2
+o 0 2
+x 2 2
+ENDGAME
+NEWGAME Ash James
+x 0 0
+o 1 1
+x 1 0
+o 2 0
+x 2 1
+o 2 2
+x 0 2
+o 0 1
+x 1 2
+ENDGAME
+NEWGAME Ash Brock
+x 2 2
+o 2 1
+x 1 2
+o 0 1
+x 0 0
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Misty James
+x 2 1
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Jessie Ash
+x 1 1
+o 2 0
+x 2 1
+o 1 0
+ENDGAME
+NEWGAME Ash Gary
+x 0 1
+o 1 0
+x 2 0
+o 1 1
+x 0 0
+o 2 2
+x 2 1
+o 1 2
+ENDGAME
+NEWGAME Ash Misty
+x 1 0
+o 0 1
+x 1 2
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME Ash James
+x 0 1
+o 1 1
+x 2 1
+o 0 2
+x 1 0
+o 2 2
+x 2 0
+ENDGAME
+NEWGAME Ash Brock
+x 0 2
+o 1 1
+x 2 2
+o 2 0
+x 0 1
+o 0 0
+ENDGAME
+NEWGAME Brock Misty
+x 0 2
+o 0 0
+ENDGAME
+NEWGAME Jessie Gary
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Brock Gary
+x 0 1
+ENDGAME
+NEWGAME Misty Ash
+x 2 1
+o 0 2
+ENDGAME
+NEWGAME Brock Jessie
+x 1 0
+o 1 2
+x 0 0
+ENDGAME
+NEWGAME Ash Brock
+x 1 2
+o 1 0
+x 0 0
+o 2 0
+x 0 1
+o 2 2
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+o 2 2
+x 2 0
+o 0 2
+x 1 1
+o 1 0
+ENDGAME
+NEWGAME James Gary
+x 0 0
+o 1 1
+x 1 0
+o 2 0
+x 2 2
+o 1 2
+x 2 1
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Ash Gary
+x 1 1
+o 2 1
+x 0 1
+o 2 0
+x 0 2
+o 1 0
+x 1 2
+o 2 2
+ENDGAME
+NEWGAME Misty Ash
+x 2 2
+o 0 0
+x 2 0
+o 2 1
+x 1 1
+o 0 2
+x 0 1
+o 1 2
+x 1 0
+ENDGAME
+NEWGAME James Gary
+x 0 2
+o 1 2
+x 1 1
+o 2 2
+x 2 1
+o 0 1
+x 1 0
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Jessie Ash
+x 0 2
+ENDGAME
+NEWGAME Brock James
+x 1 1
+o 1 0
+x 0 1
+o 0 2
+x 2 1
+ENDGAME
+NEWGAME James Ash
+x 2 1
+o 1 0
+x 1 1
+o 2 0
+x 2 2
+o 1 2
+x 0 1
+ENDGAME
+NEWGAME Ash James
+x 1 0
+o 2 1
+x 0 1
+o 0 2
+x 1 2
+o 1 1
+x 2 2
+o 2 0
+ENDGAME
+NEWGAME James Brock
+x 1 0
+o 0 0
+x 1 2
+o 2 2
+x 2 0
+o 2 1
+ENDGAME
+NEWGAME James Misty
+x 0 0
+ENDGAME
+NEWGAME Misty Ash
+x 2 0
+ENDGAME
+NEWGAME Gary Jessie
+x 2 1
+o 0 1
+x 0 0
+o 2 0
+x 2 2
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME Gary Brock
+x 0 1
+o 2 2
+x 2 0
+ENDGAME
+NEWGAME Brock Gary
+x 0 2
+o 2 2
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME James Brock
+x 0 0
+o 2 1
+x 0 1
+o 1 0
+x 1 2
+o 2 0
+x 1 1
+o 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 1 0
+o 0 0
+x 1 1
+o 0 2
+x 2 2
+o 1 2
+ENDGAME
+NEWGAME Jessie Brock
+x 0 1
+o 1 1
+x 2 1
+o 1 0
+x 1 2
+o 2 0
+x 0 0
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Ash Brock
+x 1 0
+ENDGAME
+NEWGAME Jessie James
+x 0 1
+o 2 1
+x 0 0
+o 1 1
+x 1 2
+o 1 0
+ENDGAME
+NEWGAME Brock James
+x 0 1
+o 1 2
+x 2 0
+o 0 0
+x 2 1
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 2 1
+o 1 0
+x 2 2
+o 2 0
+x 1 1
+o 0 1
+x 0 0
+ENDGAME
+NEWGAME Brock James
+x 2 0
+o 0 2
+x 1 0
+o 1 1
+ENDGAME
+NEWGAME Gary Jessie
+x 0 2
+o 1 1
+ENDGAME
+NEWGAME Jessie Misty
+x 1 2
+o 2 0
+x 0 2
+o 1 0
+x 2 1
+o 2 2
+x 0 1
+o 1 1
+x 0 0
+ENDGAME
+NEWGAME Brock Gary
+x 2 1
+o 0 1
+x 0 0
+o 1 1
+x 2 2
+o 1 0
+x 1 2
+o 0 2
+x 2 0
+ENDGAME
+NEWGAME Jessie Misty
+x 2 0
+o 1 2
+x 1 1
+o 0 2
+x 0 0
+o 2 1
+x 0 1
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME James Misty
+x 2 0
+o 0 0
+x 1 0
+o 0 1
+x 1 2
+o 2 2
+x 0 2
+o 2 1
+x 1 1
+ENDGAME
+NEWGAME Gary Misty
+x 0 1
+o 2 1
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME Brock Misty
+x 0 1
+o 2 0
+x 1 1
+o 0 2
+x 1 2
+o 0 0
+ENDGAME
+NEWGAME Jessie Brock
+x 2 2
+o 1 1
+x 2 1
+ENDGAME
+NEWGAME Gary Ash
+x 1 0
+o 1 1
+x 2 2
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Brock James
+x 0 0
+o 1 1
+x 2 2
+ENDGAME
+NEWGAME Ash James
+x 0 1
+o 2 0
+x 1 1
+o 2 2
+x 0 0
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME Jessie Misty
+x 0 1
+o 2 1
+x 1 1
+o 2 0
+ENDGAME
+NEWGAME Jessie Ash
+x 0 2
+o 1 0
+x 1 1
+o 0 0
+x 2 1
+o 2 2
+x 1 2
+o 2 0
+ENDGAME
+NEWGAME Misty Jessie
+x 0 0
+o 1 0
+x 0 1
+o 2 2
+x 2 1
+o 1 1
+x 2 0
+o 1 2
+ENDGAME
+NEWGAME Gary Misty
+x 1 0
+o 1 2
+x 0 1
+o 0 2
+x 2 0
+o 1 1
+x 0 0
+ENDGAME
+NEWGAME Jessie James
+x 2 0
+o 1 1
+ENDGAME
+NEWGAME Misty Ash
+x 2 1
+o 1 2
+x 2 0
+ENDGAME
+NEWGAME Brock Gary
+x 1 0
+o 2 0
+x 2 2
+o 1 2
+x 2 1
+o 0 2
+x 0 1
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Gary Jessie
+x 1 2
+o 1 0
+x 0 0
+o 0 1
+x 1 1
+o 0 2
+x 2 0
+o 2 2
+x 2 1
+ENDGAME
+NEWGAME Ash Misty
+x 1 1
+o 0 2
+x 0 1
+o 2 2
+x 2 0
+o 1 0
+x 0 0
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Misty Ash
+x 2 2
+o 1 2
+x 0 1
+o 2 0
+x 0 2
+o 2 1
+x 0 0
+ENDGAME
+NEWGAME Misty Ash
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME Misty Gary
+x 2 0
+o 0 1
+x 2 1
+o 0 2
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME Gary Misty
+x 1 2
+o 1 0
+x 2 1
+o 0 0
+x 0 2
+o 2 0
+ENDGAME
+NEWGAME Misty Jessie
+x 2 2
+o 1 1
+x 1 2
+o 1 0
+x 0 2
+ENDGAME
+NEWGAME Ash Gary
+x 1 1
+o 0 2
+x 2 0
+o 0 1
+x 1 0
+o 2 1
+x 0 0
+ENDGAME
+NEWGAME Misty Ash
+x 1 2
+o 2 2
+x 0 1
+o 0 2
+x 2 1
+o 1 0
+x 0 0
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Gary Brock
+x 1 2
+o 1 1
+x 1 0
+o 0 1
+x 2 2
+o 0 2
+x 0 0
+o 2 1
+ENDGAME
+NEWGAME Misty Brock
+x 0 1
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Brock Gary
+x 0 1
+o 1 0
+x 2 1
+o 2 0
+x 0 2
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME Gary James
+x 1 0
+ENDGAME
+NEWGAME Brock Gary
+x 0 0
+o 0 1
+x 2 0
+o 2 1
+x 2 2
+ENDGAME
+NEWGAME Ash Brock
+x 2 1
+o 0 0
+x 0 2
+o 1 1
+x 1 2
+o 2 2
+ENDGAME
+NEWGAME Ash Jessie
+x 1 0
+o 2 0
+x 0 2
+o 2 2
+x 0 0
+o 0 1
+x 1 1
+o 1 2
+x 2 1
+ENDGAME
+NEWGAME Jessie Gary
+x 0 2
+o 2 2
+x 1 2
+ENDGAME
+NEWGAME Brock Misty
+x 0 0
+o 0 1
+x 2 2
+o 0 2
+x 1 2
+o 1 0
+x 1 1
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+o 2 0
+x 1 2
+o 1 1
+x 0 0
+o 2 2
+x 0 1
+o 1 0
+x 0 2
+ENDGAME
+NEWGAME Misty Jessie
+x 2 0
+o 2 1
+x 1 0
+o 0 2
+x 2 2
+o 1 2
+x 0 1
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME James Misty
+x 2 0
+o 1 1
+x 2 2
+o 1 0
+x 0 0
+o 2 1
+x 0 1
+o 1 2
+ENDGAME
+NEWGAME Ash Misty
+x 2 1
+o 1 0
+x 0 1
+o 1 1
+x 2 2
+o 2 0
+x 0 2
+o 1 2
+ENDGAME
+NEWGAME Brock Jessie
+x 2 1
+o 2 2
+ENDGAME
+NEWGAME Ash Misty
+x 1 2
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Ash Gary
+x 1 0
+o 2 1
+x 2 0
+o 0 1
+x 2 2
+o 1 1
+ENDGAME
+NEWGAME Brock Ash
+x 0 1
+o 2 0
+x 1 1
+o 1 0
+x 0 0
+o 1 2
+x 2 2
+ENDGAME
+NEWGAME Gary James
+x 1 2
+o 1 0
+ENDGAME
+NEWGAME Gary James
+x 1 1
+o 0 2
+x 0 0
+o 2 2
+x 0 1
+o 2 1
+x 1 2
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Brock James
+x 0 0
+o 0 1
+x 1 0
+o 2 2
+x 1 1
+o 0 2
+x 2 0
+ENDGAME
+NEWGAME James Gary
+x 2 0
+o 0 1
+x 2 1
+o 1 0
+ENDGAME
+NEWGAME Jessie James
+x 2 0
+o 0 2
+x 0 0
+o 1 1
+x 2 2
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Misty Brock
+x 1 0
+o 2 0
+x 0 2
+o 0 1
+x 1 2
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME James Jessie
+x 1 0
+o 1 1
+x 2 2
+o 0 0
+x 2 0
+o 0 1
+x 2 1
+ENDGAME
+NEWGAME Gary James
+x 1 2
+o 2 0
+x 2 1
+o 1 1
+x 1 0
+ENDGAME
+NEWGAME Misty James
+x 1 2
+o 0 0
+x 2 1
+o 1 0
+x 0 2
+o 1 1
+ENDGAME
+NEWGAME Gary Ash
+x 1 0
+o 0 2
+x 2 0
+o 0 0
+x 2 2
+o 1 2
+x 1 1
+o 0 1
+ENDGAME
+NEWGAME Brock Ash
+x 0 1
+o 2 0
+x 0 0
+o 1 2
+x 1 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Gary James
+x 0 0
+o 0 2
+ENDGAME
+NEWGAME James Gary
+x 0 2
+o 1 0
+x 0 0
+o 2 2
+ENDGAME
+NEWGAME Ash James
+x 0 0
+o 2 0
+x 2 2
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME James Gary
+x 2 1
+o 0 0
+ENDGAME
+NEWGAME Jessie James
+x 0 2
+o 1 0
+x 0 0
+o 0 1
+ENDGAME
+NEWGAME Brock Jessie
+x 2 1
+o 0 1
+x 1 0
+o 0 0
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME Ash James
+x 2 0
+o 2 1
+x 1 0
+o 0 0
+x 2 2
+o 0 1
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME James Misty
+x 1 2
+o 0 0
+x 2 1
+o 2 2
+x 1 1
+o 0 2
+x 0 1
+ENDGAME
+NEWGAME Misty Gary
+x 1 2
+o 1 0
+x 0 2
+o 2 0
+x 1 1
+o 2 2
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Brock Jessie
+x 2 2
+o 2 0
+x 0 1
+o 0 0
+x 0 2
+o 1 2
+x 1 1
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Brock Ash
+x 2 0
+o 1 0
+x 2 2
+o 0 2
+x 1 2
+o 1 1
+x 0 1
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Brock Ash
+x 0 1
+o 0 0
+x 1 2
+ENDGAME
+NEWGAME Ash Misty
+x 2 2
+o 0 2
+x 1 2
+ENDGAME
+NEWGAME James Ash
+x 2 0
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME James Jessie
+x 2 0
+o 1 0
+x 2 1
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME James Gary
+x 0 0
+ENDGAME
+NEWGAME Jessie Brock
+x 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 1
+o 1 1
+x 0 1
+ENDGAME
+NEWGAME Misty Ash
+x 0 1
+o 2 2
+x 0 2
+o 0 0
+x 1 2
+o 2 1
+x 1 0
+o 1 1
+ENDGAME
+NEWGAME Gary James
+x 1 1
+o 0 0
+x 2 2
+o 1 0
+ENDGAME
+NEWGAME Jessie Misty
+x 0 0
+o 2 0
+x 0 1
+o 1 2
+x 0 2
+ENDGAME
+NEWGAME Misty Jessie
+x 1 2
+o 2 1
+x 0 1
+o 0 0
+x 2 0
+o 0 2
+x 2 2
+o 1 1
+x 1 0
+ENDGAME
+NEWGAME Misty James
+x 1 1
+o 2 0
+x 0 1
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Jessie Gary
+x 1 2
+o 2 2
+x 1 0
+o 2 0
+x 0 1
+o 1 1
+x 2 1
+o 0 0
+ENDGAME
+NEWGAME Gary Brock
+x 2 1
+o 2 0
+x 0 0
+o 1 2
+x 1 0
+o 0 1
+ENDGAME
+NEWGAME James Ash
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Brock Gary
+x 1 2
+o 1 1
+x 0 2
+o 2 1
+x 2 0
+o 0 0
+x 0 1
+o 2 2
+ENDGAME
+NEWGAME Ash Brock
+x 2 2
+o 2 0
+x 0 2
+o 1 0
+x 1 1
+o 0 0
+ENDGAME
+NEWGAME Ash James
+x 2 2
+o 0 2
+x 2 0
+o 1 2
+x 1 1
+o 0 0
+ENDGAME
+NEWGAME Jessie James
+x 0 1
+ENDGAME
+NEWGAME Brock James
+x 2 2
+o 1 2
+x 2 0
+o 0 1
+x 0 2
+o 1 1
+x 0 0
+o 2 1
+ENDGAME
+NEWGAME Misty James
+x 1 0
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Brock Ash
+x 1 2
+o 0 2
+x 0 0
+o 2 2
+x 2 1
+o 1 1
+x 0 1
+o 1 0
+ENDGAME
+NEWGAME Brock Jessie
+x 2 0
+o 1 0
+x 0 1
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Gary Ash
+x 1 2
+o 0 1
+x 1 1
+o 2 1
+x 0 0
+o 2 0
+x 2 2
+ENDGAME
+NEWGAME Jessie Gary
+x 2 0
+o 0 1
+x 2 2
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME James Ash
+x 2 1
+ENDGAME
+NEWGAME Brock Jessie
+x 0 1
+o 2 2
+x 1 1
+o 0 0
+x 0 2
+o 1 2
+x 1 0
+o 2 0
+x 2 1
+ENDGAME
+NEWGAME Brock Misty
+x 1 2
+o 1 0
+x 0 1
+o 2 2
+x 0 0
+o 1 1
+ENDGAME
+NEWGAME Ash Misty
+x 2 0
+o 0 1
+x 2 2
+o 1 0
+x 1 2
+o 2 1
+ENDGAME
+NEWGAME Jessie Misty
+x 0 0
+o 2 1
+ENDGAME
+NEWGAME Brock Gary
+x 1 1
+o 0 1
+x 0 2
+o 1 2
+x 0 0
+ENDGAME
+NEWGAME Jessie Misty
+x 1 1
+o 2 0
+x 2 1
+o 0 2
+x 0 0
+o 2 2
+x 1 2
+o 1 0
+x 0 1
+ENDGAME
+NEWGAME Gary Brock
+x 1 2
+o 1 0
+ENDGAME
+NEWGAME Gary James
+x 2 1
+o 0 2
+x 1 0
+o 1 1
+x 2 0
+o 0 1
+x 1 2
+ENDGAME
+NEWGAME Gary Ash
+x 0 1
+o 0 2
+x 0 0
+ENDGAME
+NEWGAME Jessie James
+x 1 1
+o 1 2
+x 2 0
+o 0 2
+x 1 0
+o 2 1
+x 2 2
+o 0 0
+x 0 1
+ENDGAME
+NEWGAME Ash Gary
+x 2 1
+o 2 2
+x 2 0
+o 1 2
+x 1 0
+o 0 0
+x 0 1
+ENDGAME
+NEWGAME Gary Misty
+x 2 2
+o 1 0
+x 2 1
+o 1 2
+x 2 0
+ENDGAME
+NEWGAME Ash Gary
+x 2 0
+o 1 1
+x 0 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME James Brock
+x 2 0
+o 1 1
+ENDGAME
+NEWGAME Ash Misty
+x 0 1
+ENDGAME
+NEWGAME Jessie Brock
+x 2 0
+o 1 0
+ENDGAME
+NEWGAME Misty Ash
+x 0 2
+o 0 1
+x 1 1
+o 2 0
+x 0 0
+o 1 2
+x 1 0
+o 2 2
+x 2 1
+ENDGAME
+NEWGAME Misty Gary
+x 1 0
+o 0 1
+x 1 2
+o 0 0
+x 2 1
+o 0 2
+ENDGAME
+NEWGAME Ash Gary
+x 0 2
+o 2 1
+x 0 0
+o 1 1
+x 1 0
+o 2 0
+x 0 1
+ENDGAME
+NEWGAME Jessie Brock
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME Misty Brock
+x 0 1
+o 0 2
+x 1 0
+o 2 2
+x 1 2
+o 2 0
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Brock James
+x 0 1
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Jessie Misty
+x 2 2
+ENDGAME
+NEWGAME James Gary
+x 2 1
+o 0 2
+x 2 2
+o 0 1
+x 1 0
+o 2 0
+x 0 0
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Ash Jessie
+x 1 0
+o 1 1
+x 0 1
+o 0 2
+x 2 0
+o 2 1
+x 1 2
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME Misty Gary
+x 2 1
+o 1 1
+x 0 1
+ENDGAME
+NEWGAME Jessie Misty
+x 2 0
+o 2 1
+x 1 2
+o 0 0
+x 1 1
+o 1 0
+x 0 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Gary Brock
+x 0 2
+o 0 0
+x 2 2
+o 1 1
+x 1 0
+o 2 0
+x 2 1
+o 0 1
+x 1 2
+ENDGAME
+NEWGAME Jessie Brock
+x 1 0
+o 0 1
+ENDGAME
+NEWGAME Ash Gary
+x 0 1
+o 2 2
+x 2 1
+ENDGAME
+NEWGAME Brock Gary
+x 0 0
+o 1 0
+x 1 1
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME James Gary
+x 2 0
+o 2 1
+x 0 0
+o 0 2
+x 2 2
+o 1 1
+x 1 2
+o 0 1
+ENDGAME
+NEWGAME Ash Misty
+x 0 1
+o 1 0
+x 2 1
+o 2 2
+x 0 0
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Ash James
+x 1 1
+o 1 0
+ENDGAME
+NEWGAME Brock Gary
+x 1 1
+o 2 2
+x 0 2
+o 2 1
+x 0 1
+o 2 0
+ENDGAME
+NEWGAME Ash Jessie
+x 0 1
+o 1 2
+ENDGAME
+NEWGAME Gary James
+x 0 2
+o 0 1
+x 0 0
+o 2 1
+x 1 0
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Brock Ash
+x 0 1
+o 0 0
+x 1 1
+o 2 1
+x 1 2
+o 0 2
+x 2 0
+ENDGAME
+NEWGAME Brock Gary
+x 0 2
+o 0 1
+x 1 1
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME Misty Ash
+x 0 2
+o 2 0
+ENDGAME
+NEWGAME Gary Jessie
+x 1 2
+o 2 0
+x 1 1
+o 1 0
+x 0 0
+o 2 2
+x 0 1
+o 0 2
+x 2 1
+ENDGAME
+NEWGAME Brock Jessie
+x 1 1
+o 2 1
+x 1 0
+o 0 1
+x 2 0
+o 0 0
+x 1 2
+ENDGAME
+NEWGAME James Jessie
+x 2 0
+o 1 1
+x 1 2
+o 0 1
+x 1 0
+o 2 2
+x 0 2
+o 2 1
+ENDGAME
+NEWGAME Ash Misty
+x 0 1
+o 2 0
+x 1 2
+o 1 0
+x 2 1
+o 1 1
+x 0 2
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME James Gary
+x 1 1
+o 1 0
+x 0 1
+o 2 0
+x 2 1
+ENDGAME
+NEWGAME Jessie Misty
+x 1 1
+o 2 0
+x 1 2
+o 0 0
+x 2 2
+ENDGAME
+NEWGAME Ash Gary
+x 2 1
+o 1 1
+x 0 0
+o 0 1
+x 2 0
+o 1 0
+x 0 2
+o 1 2
+ENDGAME
+NEWGAME Ash Gary
+x 0 1
+o 0 0
+x 0 2
+o 1 1
+x 2 1
+o 2 2
+ENDGAME
+NEWGAME Misty Ash
+x 1 2
+o 2 1
+x 1 0
+o 2 0
+x 2 2
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Misty Ash
+x 0 0
+o 0 2
+x 1 2
+ENDGAME
+NEWGAME Brock Ash
+x 0 1
+o 0 2
+x 2 0
+o 2 1
+x 2 2
+o 1 1
+x 0 0
+o 1 2
+x 1 0
+ENDGAME
+NEWGAME Brock Jessie
+x 0 0
+ENDGAME
+NEWGAME Ash Brock
+x 2 2
+ENDGAME
+NEWGAME Ash James
+x 2 0
+o 0 0
+x 1 2
+o 2 1
+x 0 2
+o 1 0
+x 0 1
+ENDGAME
+NEWGAME Brock Jessie
+x 2 1
+o 2 0
+x 2 2
+o 0 1
+x 1 2
+o 1 1
+x 1 0
+o 0 2
+ENDGAME
+NEWGAME Jessie James
+x 2 0
+o 1 1
+x 2 2
+o 1 2
+x 2 1
+ENDGAME
+NEWGAME Jessie Ash
+x 1 0
+ENDGAME
+NEWGAME James Brock
+x 0 1
+o 2 0
+x 2 1
+o 1 2
+x 2 2
+o 0 0
+ENDGAME
+NEWGAME Ash Gary
+x 1 0
+o 1 1
+x 1 2
+o 2 2
+ENDGAME
+NEWGAME Brock Misty
+x 1 0
+o 0 0
+x 1 1
+o 0 1
+x 1 2
+ENDGAME
+NEWGAME Misty Jessie
+x 0 1
+o 2 0
+x 0 0
+o 1 0
+x 1 2
+ENDGAME
+NEWGAME Ash Gary
+x 0 1
+o 2 2
+ENDGAME
+NEWGAME Ash Gary
+x 2 2
+ENDGAME
+NEWGAME Brock Misty
+x 1 1
+o 2 0
+x 1 2
+ENDGAME
+NEWGAME Misty James
+x 0 1
+o 2 2
+x 0 0
+o 2 0
+ENDGAME
+NEWGAME Brock Jessie
+x 1 2
+o 1 0
+x 2 2
+o 0 1
+x 0 0
+o 0 2
+x 2 1
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME James Ash
+x 1 1
+o 1 0
+x 0 2
+o 1 2
+x 0 0
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Jessie Gary
+x 2 0
+o 0 0
+x 1 1
+o 2 1
+x 0 1
+o 1 0
+x 1 2
+o 0 2
+x 2 2
+ENDGAME
+NEWGAME Brock James
+x 1 0
+o 2 1
+x 1 2
+o 0 1
+x 0 2
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Ash James
+x 2 0
+o 0 0
+x 2 1
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME Gary Jessie
+x 2 2
+o 1 2
+x 2 0
+o 1 0
+x 0 0
+o 1 1
+ENDGAME
+NEWGAME Gary Misty
+x 0 1
+o 0 0
+x 2 2
+o 0 2
+x 1 2
+o 2 0
+x 1 1
+o 1 0
+ENDGAME
+NEWGAME Brock Ash
+x 1 0
+o 2 2
+x 0 1
+o 2 0
+x 0 0
+o 0 2
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Misty Gary
+x 2 2
+o 1 2
+x 1 1
+o 0 2
+x 0 1
+o 2 0
+ENDGAME
+NEWGAME James Ash
+x 0 1
+o 0 0
+x 2 1
+o 0 2
+x 2 2
+o 1 0
+x 1 1
+ENDGAME
+NEWGAME Ash Misty
+x 0 2
+o 1 0
+x 0 1
+o 0 0
+x 2 1
+o 2 2
+x 2 0
+o 1 1
+ENDGAME
+NEWGAME Misty Gary
+x 1 1
+o 0 0
+x 2 0
+o 0 2
+x 2 1
+o 0 1
+ENDGAME
+NEWGAME Jessie Ash
+x 0 0
+o 1 1
+x 2 2
+o 0 2
+x 1 0
+o 0 1
+x 1 2
+o 2 1
+ENDGAME
+NEWGAME Jessie James
+x 1 1
+o 0 2
+x 2 1
+o 2 0
+x 0 0
+o 2 2
+x 1 0
+o 1 2
+ENDGAME
+NEWGAME Jessie James
+x 0 1
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME James Misty
+x 2 1
+o 0 2
+x 1 0
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Jessie James
+x 1 0
+o 2 1
+x 0 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Jessie Ash
+x 2 0
+o 0 1
+x 1 2
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Brock James
+x 0 1
+o 1 0
+x 2 1
+o 0 2
+ENDGAME
+NEWGAME Gary James
+x 0 2
+o 0 1
+x 2 1
+o 1 2
+x 1 1
+o 2 0
+x 1 0
+o 0 0
+x 2 2
+ENDGAME
+NEWGAME Gary Jessie
+x 1 0
+o 1 1
+x 0 0
+o 2 2
+x 0 2
+o 2 0
+x 0 1
+ENDGAME
+NEWGAME Gary Brock
+x 1 2
+o 1 0
+x 1 1
+o 2 1
+x 2 0
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Gary Brock
+x 2 0
+o 0 1
+x 0 0
+o 2 2
+x 0 2
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Jessie Misty
+x 1 0
+o 0 2
+x 0 0
+o 0 1
+x 2 1
+o 1 2
+x 2 0
+ENDGAME
+NEWGAME James Misty
+x 2 2
+o 1 0
+x 2 0
+o 0 1
+x 2 1
+ENDGAME
+NEWGAME Gary Ash
+x 0 0
+o 2 0
+x 0 2
+o 2 2
+x 0 1
+ENDGAME
+NEWGAME Misty Brock
+x 2 2
+o 1 0
+x 1 1
+o 0 1
+x 2 1
+o 0 0
+x 0 2
+o 2 0
+ENDGAME
+NEWGAME Gary Ash
+x 1 2
+o 2 2
+x 2 1
+o 1 0
+x 0 2
+ENDGAME
+NEWGAME Misty James
+x 1 0
+o 0 0
+x 0 2
+o 2 0
+x 1 2
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Gary Misty
+x 1 1
+o 0 0
+x 0 1
+o 2 2
+x 1 2
+o 2 0
+x 0 2
+o 1 0
+ENDGAME
+NEWGAME Gary Brock
+x 0 1
+o 2 0
+x 1 2
+o 1 1
+x 2 2
+o 2 1
+ENDGAME
+NEWGAME Ash Misty
+x 2 2
+o 2 0
+x 0 0
+o 0 2
+x 1 0
+o 1 2
+x 0 1
+o 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 1 1
+o 0 1
+x 2 2
+o 1 2
+x 2 1
+o 0 2
+x 1 0
+o 0 0
+ENDGAME
+NEWGAME Ash James
+x 1 2
+o 1 0
+ENDGAME
+NEWGAME Brock Jessie
+x 2 0
+o 2 2
+ENDGAME
+NEWGAME Gary James
+x 0 0
+ENDGAME
+NEWGAME Misty Jessie
+x 0 1
+o 0 0
+x 2 2
+o 1 0
+x 1 1
+o 2 0
+ENDGAME
+NEWGAME Jessie Gary
+x 2 0
+o 0 0
+x 0 1
+o 2 1
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME James Jessie
+x 2 1
+o 0 1
+x 2 0
+o 1 0
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME Ash Misty
+x 1 0
+o 1 2
+x 0 0
+o 0 2
+x 0 1
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME James Jessie
+x 2 0
+o 2 2
+x 1 0
+o 1 1
+x 0 0
+ENDGAME
+NEWGAME Misty James
+x 1 0
+o 1 2
+x 2 2
+o 2 1
+x 0 0
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Jessie Gary
+x 1 2
+o 1 0
+x 2 0
+o 2 1
+x 2 2
+o 0 1
+x 1 1
+o 0 0
+x 0 2
+ENDGAME
+NEWGAME Gary James
+x 2 0
+o 2 2
+x 1 2
+o 1 1
+x 1 0
+o 0 1
+x 0 2
+o 0 0
+ENDGAME
+NEWGAME Gary Ash
+x 0 1
+ENDGAME
+NEWGAME Jessie James
+x 1 2
+ENDGAME
+NEWGAME Brock James
+x 2 2
+o 0 0
+x 2 0
+o 0 1
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME Brock Ash
+x 1 2
+o 0 2
+x 0 0
+o 2 0
+x 1 0
+o 2 1
+x 2 2
+o 1 1
+ENDGAME
+NEWGAME Brock Misty
+x 2 1
+o 1 0
+x 0 2
+ENDGAME
+NEWGAME Jessie James
+x 2 0
+o 0 1
+x 1 1
+o 0 0
+x 2 2
+o 1 2
+x 2 1
+ENDGAME
+NEWGAME Jessie Brock
+x 2 0
+o 2 1
+x 1 1
+o 0 1
+x 2 2
+o 0 2
+x 1 0
+o 1 2
+x 0 0
+ENDGAME
+NEWGAME Jessie James
+x 0 1
+o 2 1
+x 0 2
+o 0 0
+x 1 0
+o 1 1
+x 1 2
+ENDGAME
+NEWGAME Misty Ash
+x 0 0
+o 0 2
+x 1 0
+o 0 1
+x 2 2
+o 1 1
+x 1 2
+o 2 0
+ENDGAME
+NEWGAME Brock Ash
+x 0 1
+o 2 0
+x 1 2
+o 0 0
+x 0 2
+o 2 2
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME Brock Jessie
+x 1 1
+o 0 0
+x 0 1
+o 2 0
+x 2 2
+o 0 2
+x 1 0
+ENDGAME
+NEWGAME Misty Ash
+x 1 1
+o 1 0
+x 0 2
+o 2 1
+x 2 0
+ENDGAME
+NEWGAME Jessie Ash
+x 0 0
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME Jessie Ash
+x 0 0
+o 0 2
+ENDGAME
+NEWGAME Ash Misty
+x 2 0
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME James Misty
+x 2 1
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME James Gary
+x 2 1
+o 1 2
+x 1 1
+o 0 2
+x 0 0
+o 1 0
+x 0 1
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+o 0 1
+x 1 0
+ENDGAME
+NEWGAME James Misty
+x 1 0
+o 2 1
+x 0 0
+o 2 0
+x 2 2
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Gary Jessie
+x 0 1
+o 1 1
+x 0 0
+o 2 0
+x 2 2
+o 1 2
+x 2 1
+o 0 2
+ENDGAME
+NEWGAME Misty Gary
+x 2 2
+o 0 1
+x 2 1
+o 1 0
+x 1 1
+o 2 0
+x 1 2
+o 0 0
+ENDGAME
+NEWGAME Jessie Misty
+x 1 1
+o 2 1
+x 0 2
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME James Ash
+x 2 1
+o 1 1
+x 0 1
+o 0 2
+x 0 0
+o 1 0
+x 2 0
+o 1 2
+ENDGAME
+NEWGAME Gary Misty
+x 1 2
+o 2 2
+ENDGAME
+NEWGAME Jessie Misty
+x 1 1
+o 2 1
+x 0 2
+o 1 2
+x 0 0
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME James Jessie
+x 1 2
+o 0 1
+x 0 0
+o 1 1
+x 1 0
+o 0 2
+x 2 2
+o 2 0
+ENDGAME
+NEWGAME Misty Gary
+x 2 2
+o 0 1
+x 2 0
+o 0 0
+x 1 0
+o 1 1
+x 0 2
+o 2 1
+ENDGAME
+NEWGAME James Ash
+x 2 1
+o 1 0
+x 1 2
+ENDGAME
+NEWGAME James Gary
+x 1 2
+o 1 1
+x 0 1
+o 0 0
+x 2 0
+o 0 2
+x 1 0
+o 2 1
+x 2 2
+ENDGAME
+NEWGAME James Gary
+x 0 1
+o 0 0
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME Brock Gary
+x 1 0
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 0 2
+o 0 0
+x 2 0
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Misty James
+x 2 2
+o 1 1
+x 0 0
+o 1 2
+x 2 0
+o 2 1
+x 0 1
+o 0 2
+x 1 0
+ENDGAME
+NEWGAME Jessie Gary
+x 2 2
+o 2 0
+x 1 1
+o 1 0
+x 1 2
+o 0 2
+x 0 0
+ENDGAME
+NEWGAME Gary Misty
+x 1 1
+o 2 2
+x 0 1
+o 1 0
+x 2 0
+o 2 1
+x 1 2
+o 0 2
+x 0 0
+ENDGAME
+NEWGAME Brock James
+x 1 0
+o 0 0
+x 0 1
+o 0 2
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME James Misty
+x 2 2
+ENDGAME
+NEWGAME Brock Misty
+x 1 0
+ENDGAME
+NEWGAME James Misty
+x 2 0
+ENDGAME
+NEWGAME Misty Brock
+x 0 0
+o 1 2
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+o 1 2
+x 0 1
+o 2 2
+x 0 0
+o 2 0
+x 0 2
+ENDGAME
+NEWGAME Gary Jessie
+x 2 1
+o 2 2
+x 0 0
+o 1 0
+x 1 2
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 0 2
+ENDGAME
+NEWGAME Ash Jessie
+x 2 1
+o 0 2
+x 1 1
+o 0 1
+x 1 0
+o 2 0
+x 2 2
+o 0 0
+ENDGAME
+NEWGAME Ash Gary
+x 2 0
+o 1 0
+x 0 0
+o 1 1
+x 1 2
+o 0 1
+x 2 2
+o 0 2
+x 2 1
+ENDGAME
+NEWGAME Ash Jessie
+x 1 1
+o 2 2
+ENDGAME
+NEWGAME Ash Gary
+x 2 0
+o 1 2
+x 2 1
+o 1 0
+x 0 2
+ENDGAME
+NEWGAME Jessie Brock
+x 1 2
+o 2 0
+x 1 1
+o 1 0
+x 2 1
+o 0 0
+ENDGAME
+NEWGAME Misty Jessie
+x 2 0
+o 1 1
+x 0 2
+o 1 0
+x 0 0
+o 0 1
+x 2 2
+o 2 1
+ENDGAME
+NEWGAME James Gary
+x 1 1
+o 0 2
+x 0 0
+o 2 2
+x 2 0
+o 2 1
+x 1 2
+o 0 1
+x 1 0
+ENDGAME
+NEWGAME Ash Jessie
+x 0 1
+o 1 2
+x 2 1
+o 0 0
+x 2 2
+o 1 1
+x 1 0
+ENDGAME
+NEWGAME Jessie Ash
+x 0 1
+o 1 2
+x 0 2
+o 2 2
+x 1 0
+o 0 0
+x 2 0
+o 1 1
+ENDGAME
+NEWGAME Brock Misty
+x 0 1
+o 2 2
+ENDGAME
+NEWGAME Misty James
+x 1 1
+o 0 1
+x 2 0
+o 2 2
+x 1 0
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 0
+o 0 0
+x 0 1
+o 1 0
+x 1 1
+o 0 2
+x 1 2
+o 2 1
+x 2 2
+ENDGAME
+NEWGAME Brock Misty
+x 1 2
+o 2 2
+x 1 0
+o 1 1
+x 2 1
+o 0 1
+x 2 0
+o 0 2
+x 0 0
+ENDGAME
+NEWGAME Gary Jessie
+x 2 2
+o 0 2
+x 1 0
+o 0 1
+x 2 1
+o 0 0
+ENDGAME
+NEWGAME James Misty
+x 0 0
+ENDGAME
+NEWGAME James Jessie
+x 0 2
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Misty Ash
+x 0 1
+o 1 0
+x 2 1
+o 0 0
+x 0 2
+o 1 1
+x 2 2
+o 1 2
+ENDGAME
+NEWGAME Misty Brock
+x 0 0
+o 2 2
+x 1 0
+o 0 2
+x 2 0
+ENDGAME
+NEWGAME Misty James
+x 1 0
+o 0 1
+ENDGAME
+NEWGAME Gary Brock
+x 0 1
+o 0 0
+x 2 1
+o 0 2
+x 1 2
+o 2 2
+x 2 0
+o 1 0
+ENDGAME
+NEWGAME Misty Brock
+x 1 2
+o 2 0
+x 1 0
+o 1 1
+x 2 1
+o 0 0
+ENDGAME
+NEWGAME James Gary
+x 1 2
+o 1 1
+x 1 0
+o 2 0
+ENDGAME
+NEWGAME Jessie Brock
+x 2 1
+o 1 2
+x 0 0
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME Misty James
+x 2 2
+o 0 1
+x 0 0
+ENDGAME
+NEWGAME Brock Ash
+x 2 0
+o 0 1
+x 2 2
+o 1 0
+ENDGAME
+NEWGAME Ash Jessie
+x 0 0
+o 2 1
+x 2 2
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Gary Brock
+x 1 2
+o 2 1
+x 2 0
+ENDGAME
+NEWGAME Misty James
+x 0 1
+o 0 2
+x 1 0
+o 0 0
+x 1 2
+o 2 0
+x 2 2
+o 1 1
+ENDGAME
+NEWGAME James Ash
+x 0 2
+o 2 1
+x 1 2
+o 0 0
+x 1 0
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 2 0
+o 0 0
+x 0 2
+o 1 2
+x 1 0
+ENDGAME
+NEWGAME Brock James
+x 2 2
+o 1 1
+x 2 0
+o 0 2
+x 2 1
+ENDGAME
+NEWGAME Misty Brock
+x 0 2
+o 1 1
+x 2 1
+o 1 0
+x 1 2
+o 2 2
+x 0 1
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Brock Gary
+x 2 1
+o 2 0
+ENDGAME
+NEWGAME Gary Brock
+x 1 2
+o 0 2
+x 2 1
+o 2 0
+x 1 1
+o 1 0
+x 0 0
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Misty Gary
+x 2 0
+o 2 1
+x 2 2
+o 1 2
+x 0 0
+o 1 1
+x 0 1
+o 0 2
+x 1 0
+ENDGAME
+NEWGAME Ash Brock
+x 2 2
+o 1 2
+x 2 1
+o 0 0
+x 1 1
+o 0 2
+x 2 0
+ENDGAME
+NEWGAME Jessie Misty
+x 2 0
+o 1 0
+x 0 1
+ENDGAME
+NEWGAME Jessie Ash
+x 2 2
+o 1 0
+x 1 1
+o 1 2
+x 0 2
+ENDGAME
+NEWGAME Misty Brock
+x 1 1
+o 2 0
+x 0 2
+o 1 0
+x 0 0
+o 1 2
+x 0 1
+ENDGAME
+NEWGAME Ash Misty
+x 0 0
+o 0 2
+x 2 2
+o 2 0
+x 1 2
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME James Misty
+x 0 0
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Misty Ash
+x 1 2
+o 2 2
+x 0 0
+o 1 0
+ENDGAME
+NEWGAME James Jessie
+x 2 0
+o 1 2
+x 2 1
+ENDGAME
+NEWGAME Jessie Misty
+x 0 2
+o 2 1
+x 0 0
+ENDGAME
+NEWGAME James Brock
+x 0 0
+o 2 2
+x 1 1
+o 1 0
+x 2 1
+o 2 0
+x 1 2
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Ash Jessie
+x 0 1
+o 2 1
+x 1 0
+o 0 0
+x 2 0
+o 2 2
+x 1 2
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME Ash Jessie
+x 2 1
+ENDGAME
+NEWGAME Misty Gary
+x 1 1
+o 0 2
+ENDGAME
+NEWGAME Gary Misty
+x 1 1
+o 1 0
+x 0 0
+o 0 2
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Misty Ash
+x 2 1
+o 1 1
+x 1 0
+o 0 0
+x 2 2
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME Misty Brock
+x 0 1
+o 0 2
+x 1 2
+o 1 1
+x 2 2
+o 2 0
+ENDGAME
+NEWGAME Ash Misty
+x 2 2
+o 2 0
+x 1 1
+o 0 1
+x 1 2
+o 2 1
+x 0 0
+ENDGAME
+NEWGAME Jessie Gary
+x 2 1
+o 0 0
+x 2 0
+o 0 2
+x 1 2
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME James Ash
+x 1 1
+o 2 1
+x 0 1
+o 1 2
+x 1 0
+ENDGAME
+NEWGAME James Misty
+x 2 1
+o 1 0
+x 2 0
+o 2 2
+x 0 1
+o 0 2
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME Misty James
+x 0 1
+o 2 2
+x 1 0
+o 0 0
+x 1 2
+o 2 1
+x 2 0
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME Misty Gary
+x 0 0
+ENDGAME
+NEWGAME Misty Brock
+x 0 0
+o 1 2
+x 2 0
+o 2 1
+x 2 2
+o 1 0
+x 0 1
+o 1 1
+ENDGAME
+NEWGAME James Brock
+x 0 2
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME James Misty
+x 1 1
+o 1 0
+x 2 2
+o 1 2
+x 0 2
+o 2 0
+ENDGAME
+NEWGAME Ash James
+x 2 1
+o 0 2
+ENDGAME
+NEWGAME Gary Ash
+x 2 2
+o 0 2
+ENDGAME
+NEWGAME Ash James
+x 0 1
+ENDGAME
+NEWGAME Jessie Misty
+x 0 0
+o 2 1
+x 1 2
+o 2 0
+x 1 1
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Misty Brock
+x 0 1
+o 1 2
+x 0 0
+o 1 1
+x 2 0
+o 0 2
+x 2 1
+ENDGAME
+NEWGAME Jessie Brock
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME James Misty
+x 1 2
+o 2 2
+x 1 1
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Gary James
+x 0 0
+o 1 0
+ENDGAME
+NEWGAME Jessie Misty
+x 0 2
+o 1 1
+x 0 0
+o 2 0
+x 2 1
+o 1 2
+x 1 0
+o 2 2
+ENDGAME
+NEWGAME Gary Brock
+x 0 1
+o 1 1
+x 0 2
+o 2 2
+x 1 2
+o 2 0
+x 2 1
+ENDGAME
+NEWGAME Ash Jessie
+x 2 0
+o 2 1
+x 1 2
+o 1 1
+x 1 0
+o 0 1
+ENDGAME
+NEWGAME Brock Gary
+x 0 2
+o 1 2
+x 1 0
+o 2 2
+x 1 1
+o 0 0
+x 0 1
+o 2 0
+x 2 1
+ENDGAME
+NEWGAME Gary James
+x 2 0
+o 0 0
+x 1 0
+o 1 2
+x 2 1
+o 1 1
+x 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 0
+o 1 1
+x 2 1
+o 0 0
+x 2 2
+ENDGAME
+NEWGAME Gary Misty
+x 2 0
+o 1 0
+x 1 1
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Misty Brock
+x 2 1
+o 0 1
+x 2 2
+o 2 0
+x 1 0
+o 0 0
+x 0 2
+o 1 1
+x 1 2
+ENDGAME
+NEWGAME Misty Jessie
+x 0 0
+o 2 0
+x 2 2
+o 2 1
+x 0 2
+ENDGAME
+NEWGAME Jessie Gary
+x 1 2
+o 2 2
+x 2 1
+ENDGAME
+NEWGAME James Ash
+x 2 2
+o 1 0
+x 0 1
+o 1 2
+x 2 0
+ENDGAME
+NEWGAME Misty Gary
+x 1 1
+o 2 0
+x 1 0
+o 0 2
+x 0 0
+o 0 1
+x 1 2
+ENDGAME
+NEWGAME Brock Misty
+x 1 1
+o 2 1
+x 1 0
+o 0 2
+x 0 0
+o 1 2
+ENDGAME
+NEWGAME Jessie Ash
+x 1 2
+o 2 0
+x 1 0
+o 0 1
+x 2 1
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Jessie James
+x 0 0
+o 0 2
+x 2 0
+o 1 2
+x 1 0
+ENDGAME
+NEWGAME Jessie Ash
+x 1 1
+o 2 1
+x 0 2
+o 0 0
+x 2 2
+o 2 0
+x 1 0
+o 0 1
+ENDGAME
+NEWGAME Ash Misty
+x 1 2
+o 1 1
+x 2 2
+o 1 0
+x 2 1
+o 0 0
+x 0 2
+ENDGAME
+NEWGAME James Brock
+x 0 0
+o 2 0
+x 0 2
+o 2 2
+x 2 1
+o 1 2
+x 1 0
+ENDGAME
+NEWGAME James Jessie
+x 0 2
+o 1 2
+x 2 1
+o 0 0
+x 2 2
+o 2 0
+x 1 1
+o 1 0
+ENDGAME
+NEWGAME Ash Gary
+x 1 2
+o 1 1
+x 0 1
+o 2 1
+x 1 0
+o 2 0
+x 2 2
+o 0 2
+ENDGAME
+NEWGAME Ash James
+x 2 0
+o 0 0
+x 0 2
+o 1 2
+x 1 0
+o 2 1
+x 1 1
+ENDGAME
+NEWGAME Brock Jessie
+x 2 0
+o 0 0
+x 0 2
+o 2 1
+x 0 1
+o 1 0
+x 2 2
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME James Ash
+x 0 2
+o 1 0
+x 0 1
+o 2 2
+x 1 2
+o 2 1
+x 1 1
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME Ash Brock
+x 0 2
+o 1 2
+x 0 1
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Gary Jessie
+x 0 0
+o 1 1
+x 1 2
+ENDGAME
+NEWGAME Misty Brock
+x 0 2
+o 2 1
+x 1 1
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Jessie James
+x 2 2
+o 1 1
+x 0 1
+o 1 2
+x 2 0
+o 1 0
+ENDGAME
+NEWGAME Ash Brock
+x 1 1
+o 2 0
+x 2 2
+o 0 1
+x 0 0
+ENDGAME
+NEWGAME Misty James
+x 2 0
+o 2 1
+x 1 2
+o 0 0
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+o 2 2
+ENDGAME
+NEWGAME James Jessie
+x 0 1
+o 2 0
+x 0 0
+o 0 2
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Brock Jessie
+x 0 0
+o 1 0
+x 2 1
+o 0 1
+x 1 2
+o 1 1
+x 2 0
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Brock Misty
+x 1 2
+o 0 1
+x 1 0
+o 2 1
+x 2 2
+o 2 0
+x 0 2
+ENDGAME
+NEWGAME James Jessie
+x 2 1
+o 1 1
+x 1 2
+o 0 1
+x 2 2
+o 2 0
+x 0 0
+o 0 2
+ENDGAME
+NEWGAME Misty Gary
+x 0 1
+o 1 2
+ENDGAME
+NEWGAME Jessie Misty
+x 1 2
+o 1 0
+x 0 2
+o 2 1
+x 2 0
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Brock Jessie
+x 0 0
+o 2 2
+x 2 1
+o 0 1
+x 2 0
+o 0 2
+x 1 0
+ENDGAME
+NEWGAME Ash Misty
+x 1 2
+o 0 2
+x 0 1
+o 2 1
+x 1 0
+o 1 1
+x 0 0
+o 2 0
+ENDGAME
+NEWGAME Jessie Gary
+x 1 1
+o 2 0
+x 2 2
+o 2 1
+x 0 0
+ENDGAME
+NEWGAME Brock Jessie
+x 2 0
+o 0 0
+x 1 1
+o 2 1
+x 1 2
+o 2 2
+x 1 0
+ENDGAME
+NEWGAME Misty Gary
+x 1 2
+o 1 1
+x 0 2
+o 2 0
+x 0 1
+o 2 1
+x 2 2
+ENDGAME
+NEWGAME James Ash
+x 0 0
+o 0 2
+x 1 1
+o 0 1
+x 2 1
+o 1 0
+x 1 2
+o 2 2
+x 2 0
+ENDGAME
+NEWGAME Jessie Gary
+x 1 2
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME James Brock
+x 1 0
+o 2 1
+x 2 2
+o 1 2
+x 2 0
+o 1 1
+x 0 1
+o 0 2
+x 0 0
+ENDGAME
+NEWGAME Gary Misty
+x 0 1
+o 1 1
+x 2 2
+o 1 2
+x 1 0
+o 2 1
+x 0 2
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Brock Gary
+x 0 0
+o 1 0
+x 1 2
+o 0 1
+x 2 2
+o 2 1
+x 2 0
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME James Gary
+x 2 2
+o 1 2
+x 2 1
+o 0 1
+x 1 1
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME Gary Ash
+x 0 0
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+o 1 0
+x 1 1
+o 1 2
+x 2 2
+o 0 2
+ENDGAME
+NEWGAME Gary Brock
+x 0 1
+o 1 0
+x 1 2
+ENDGAME
+NEWGAME Jessie Brock
+x 0 2
+o 1 1
+x 0 0
+o 2 2
+x 1 0
+ENDGAME
+NEWGAME Gary Ash
+x 2 2
+o 0 0
+x 0 1
+o 2 0
+x 1 2
+ENDGAME
+NEWGAME Gary James
+x 2 0
+o 0 2
+x 1 2
+o 1 1
+x 2 2
+ENDGAME
+NEWGAME Ash Jessie
+x 1 1
+o 0 1
+x 1 0
+o 2 2
+x 2 0
+o 0 2
+x 0 0
+ENDGAME
+NEWGAME Misty Jessie
+x 1 2
+o 2 0
+x 0 1
+o 2 2
+x 0 0
+o 1 1
+x 2 1
+o 1 0
+x 0 2
+ENDGAME
+NEWGAME Ash James
+x 2 0
+o 1 1
+x 1 2
+o 0 1
+x 2 2
+o 2 1
+ENDGAME
+NEWGAME James Gary
+x 1 2
+o 1 0
+x 0 0
+ENDGAME
+NEWGAME Ash Misty
+x 1 1
+ENDGAME
+NEWGAME Gary Jessie
+x 0 0
+o 0 1
+ENDGAME
+NEWGAME Jessie James
+x 1 0
+o 1 1
+x 2 1
+o 2 0
+ENDGAME
+NEWGAME Ash Misty
+x 0 2
+o 1 1
+x 0 1
+ENDGAME
+NEWGAME Misty James
+x 0 1
+ENDGAME
+NEWGAME Misty Jessie
+x 1 1
+o 1 0
+ENDGAME
+NEWGAME Jessie Brock
+x 0 1
+o 0 0
+x 2 2
+o 0 2
+x 1 1
+o 1 0
+x 2 0
+o 1 2
+x 2 1
+ENDGAME
+NEWGAME Brock Jessie
+x 0 2
+o 2 0
+x 2 1
+ENDGAME
+NEWGAME Brock Misty
+x 0 0
+o 2 0
+x 2 2
+o 1 2
+x 0 2
+ENDGAME
+NEWGAME Ash Gary
+x 1 2
+o 1 1
+x 0 2
+o 2 0
+x 0 0
+o 2 2
+x 0 1
+ENDGAME
+NEWGAME Brock James
+x 1 2
+o 1 0
+x 2 2
+o 2 1
+x 0 1
+o 2 0
+x 0 0
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME Brock Gary
+x 1 0
+o 2 2
+x 1 1
+o 0 0
+x 2 0
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Brock Jessie
+x 2 2
+o 0 0
+x 2 0
+o 2 1
+x 0 1
+o 0 2
+x 1 0
+ENDGAME
+NEWGAME James Brock
+x 1 1
+o 1 2
+x 2 1
+o 2 2
+x 0 0
+o 1 0
+x 2 0
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Misty Gary
+x 1 1
+o 1 0
+x 2 0
+o 1 2
+x 0 0
+o 0 2
+x 2 1
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Gary Jessie
+x 1 2
+o 1 1
+x 0 1
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME James Misty
+x 0 2
+o 1 1
+x 0 0
+o 2 0
+x 0 1
+ENDGAME
+NEWGAME Gary Brock
+x 1 1
+o 0 2
+x 2 1
+o 2 0
+x 2 2
+o 1 2
+x 0 0
+ENDGAME
+NEWGAME James Jessie
+x 2 1
+o 2 0
+x 2 2
+o 1 0
+x 1 1
+o 1 2
+x 0 1
+ENDGAME
+NEWGAME Gary Misty
+x 1 1
+o 2 0
+x 2 2
+o 2 1
+x 0 1
+o 1 0
+x 0 2
+o 1 2
+x 0 0
+ENDGAME
+NEWGAME Misty Ash
+x 2 1
+o 2 0
+x 1 0
+o 0 0
+x 2 2
+o 0 1
+x 0 2
+o 1 1
+x 1 2
+ENDGAME
+NEWGAME Ash Jessie
+x 1 1
+o 2 0
+x 2 2
+o 2 1
+x 0 2
+o 1 0
+x 1 2
+ENDGAME
+NEWGAME Misty Brock
+x 2 0
+o 2 1
+x 0 0
+o 1 0
+x 1 1
+o 2 2
+x 0 1
+o 1 2
+x 0 2
+ENDGAME
+NEWGAME Ash Misty
+x 1 2
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Brock James
+x 0 0
+o 1 1
+x 2 2
+o 0 2
+x 1 0
+o 0 1
+x 2 1
+o 1 2
+x 2 0
+ENDGAME
+NEWGAME Jessie Ash
+x 1 2
+o 0 2
+x 2 2
+o 2 0
+x 1 0
+o 1 1
+ENDGAME
+NEWGAME James Ash
+x 0 0
+o 1 0
+x 2 1
+o 2 0
+x 1 2
+o 1 1
+x 0 2
+o 2 2
+x 0 1
+ENDGAME
+NEWGAME Gary Brock
+x 2 1
+o 1 1
+x 0 0
+o 2 0
+x 1 2
+o 0 1
+x 0 2
+o 1 0
+ENDGAME
+NEWGAME Ash Jessie
+x 0 1
+o 0 0
+x 1 1
+o 1 2
+x 2 2
+o 0 2
+x 2 0
+ENDGAME
+NEWGAME Jessie Misty
+x 0 0
+o 1 2
+x 2 0
+o 2 1
+x 0 2
+o 1 1
+x 1 0
+ENDGAME
+NEWGAME James Jessie
+x 0 2
+o 1 0
+x 2 0
+o 0 1
+x 0 0
+ENDGAME
+NEWGAME Brock Ash
+x 0 2
+ENDGAME
+NEWGAME Brock Jessie
+x 1 0
+o 0 0
+x 0 1
+o 2 0
+x 1 1
+o 1 2
+x 2 1
+ENDGAME
+NEWGAME Brock Ash
+x 0 2
+o 1 2
+x 1 1
+o 0 0
+x 1 0
+o 0 1
+x 2 1
+o 2 0
+x 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 1
+o 0 1
+x 1 0
+o 0 0
+x 2 2
+o 1 2
+x 0 2
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Misty Jessie
+x 0 1
+o 2 0
+x 1 0
+ENDGAME
+NEWGAME James Ash
+x 1 1
+o 0 2
+x 1 0
+o 2 2
+ENDGAME
+NEWGAME Jessie Brock
+x 2 0
+o 1 0
+ENDGAME
+NEWGAME Brock Jessie
+x 1 1
+o 2 0
+x 2 2
+o 0 1
+x 0 0
+ENDGAME
+NEWGAME Gary Brock
+x 0 0
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Jessie Gary
+x 0 2
+o 1 0
+x 1 1
+o 0 1
+x 2 1
+o 0 0
+x 1 2
+ENDGAME
+NEWGAME Brock Misty
+x 0 1
+o 1 0
+x 2 0
+o 2 2
+x 1 1
+o 0 2
+x 0 0
+o 1 2
+ENDGAME
+NEWGAME Misty James
+x 1 0
+o 1 1
+x 2 0
+o 0 0
+x 1 2
+o 0 1
+x 2 1
+o 2 2
+ENDGAME
+NEWGAME Misty Brock
+x 1 2
+o 1 1
+x 0 1
+o 2 0
+x 0 2
+o 0 0
+x 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 1 2
+o 2 0
+x 0 0
+o 1 1
+x 2 2
+o 0 2
+ENDGAME
+NEWGAME Jessie Brock
+x 2 2
+ENDGAME
+NEWGAME James Misty
+x 1 1
+o 0 2
+x 2 1
+o 1 0
+x 2 0
+o 1 2
+x 2 2
+ENDGAME
+NEWGAME Gary James
+x 1 1
+o 1 2
+x 0 2
+o 2 0
+ENDGAME
+NEWGAME Brock Jessie
+x 2 2
+o 1 2
+x 1 1
+o 2 0
+ENDGAME
+NEWGAME Misty Gary
+x 1 1
+o 2 1
+x 0 0
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 1 0
+ENDGAME
+NEWGAME Jessie Ash
+x 0 0
+o 1 1
+x 0 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME James Ash
+x 2 2
+o 2 1
+x 1 1
+o 0 1
+x 1 0
+o 0 2
+x 0 0
+ENDGAME
+NEWGAME James Ash
+x 2 0
+o 1 2
+x 0 1
+o 0 0
+x 2 1
+o 1 0
+x 1 1
+ENDGAME
+NEWGAME James Jessie
+x 0 2
+o 2 1
+x 2 0
+o 1 0
+x 0 0
+o 2 2
+x 0 1
+ENDGAME
+NEWGAME Ash James
+x 0 0
+o 2 2
+x 0 2
+o 0 1
+x 1 2
+o 1 0
+x 1 1
+o 2 0
+ENDGAME
+NEWGAME Jessie Misty
+x 1 1
+o 1 0
+x 0 0
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME Ash Brock
+x 0 1
+o 1 1
+x 1 0
+o 2 0
+x 1 2
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME James Ash
+x 1 0
+ENDGAME
+NEWGAME Ash Gary
+x 1 1
+o 1 0
+x 0 0
+o 2 1
+x 1 2
+o 0 1
+x 2 0
+o 0 2
+x 2 2
+ENDGAME
+NEWGAME Gary James
+x 2 1
+o 0 1
+ENDGAME
+NEWGAME Brock Jessie
+x 0 1
+o 1 1
+x 2 1
+o 0 0
+x 0 2
+o 2 2
+ENDGAME
+NEWGAME Gary Brock
+x 2 0
+o 2 1
+x 0 0
+o 0 1
+x 2 2
+o 1 1
+ENDGAME
+NEWGAME Gary Misty
+x 0 0
+o 1 0
+x 2 2
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Ash Misty
+x 0 1
+o 2 1
+x 0 2
+o 0 0
+x 2 2
+o 1 0
+x 1 2
+ENDGAME
+NEWGAME James Misty
+x 2 1
+o 1 0
+x 0 0
+o 2 0
+x 1 1
+o 0 2
+ENDGAME
+NEWGAME James Misty
+x 1 1
+o 0 1
+x 2 1
+o 1 2
+x 0 2
+o 2 2
+x 2 0
+ENDGAME
+NEWGAME James Jessie
+x 1 0
+o 2 1
+x 1 2
+o 1 1
+x 2 0
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME James Misty
+x 1 2
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Brock Ash
+x 0 1
+o 0 0
+ENDGAME
+NEWGAME Jessie James
+x 0 1
+o 0 2
+x 2 2
+o 1 2
+x 2 0
+ENDGAME
+NEWGAME Brock Ash
+x 2 2
+o 1 1
+x 0 2
+o 1 2
+x 1 0
+o 0 0
+x 0 1
+o 2 1
+x 2 0
+ENDGAME
+NEWGAME Gary Brock
+x 2 1
+o 2 0
+x 0 0
+o 1 0
+x 2 2
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Brock Jessie
+x 0 1
+o 0 0
+x 1 2
+o 1 1
+x 2 1
+ENDGAME
+NEWGAME Misty Gary
+x 1 1
+o 2 1
+x 0 0
+o 2 2
+x 0 1
+o 0 2
+x 1 2
+o 2 0
+ENDGAME
+NEWGAME Gary James
+x 0 0
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Ash James
+x 0 2
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME Ash Gary
+x 2 1
+o 1 0
+x 2 0
+o 1 1
+x 0 0
+o 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 1
+o 0 1
+x 1 2
+o 1 1
+x 2 2
+o 0 0
+x 1 0
+o 0 2
+ENDGAME
+NEWGAME Brock Jessie
+x 2 1
+o 1 0
+x 0 0
+o 0 1
+x 1 2
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME Jessie Ash
+x 2 1
+o 0 2
+x 1 2
+o 0 1
+x 1 1
+o 2 0
+x 0 0
+o 2 2
+x 1 0
+ENDGAME
+NEWGAME Misty Ash
+x 0 2
+o 1 0
+x 1 2
+o 1 1
+x 2 0
+o 0 1
+x 2 2
+ENDGAME
+NEWGAME James Misty
+x 2 0
+o 2 1
+x 1 1
+o 1 2
+x 2 2
+o 0 0
+x 0 2
+ENDGAME
+NEWGAME Misty Jessie
+x 0 2
+o 2 0
+x 0 1
+o 1 2
+x 2 1
+o 1 1
+x 2 2
+o 1 0
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+ENDGAME
+NEWGAME Brock James
+x 2 0
+o 1 2
+x 1 1
+o 0 1
+x 0 0
+o 1 0
+x 2 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Misty Ash
+x 2 2
+o 0 2
+x 0 1
+o 0 0
+x 1 1
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME James Brock
+x 1 0
+o 0 2
+x 0 1
+o 2 1
+x 2 2
+o 0 0
+x 1 2
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME James Misty
+x 2 2
+o 0 0
+x 1 2
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME James Gary
+x 1 2
+o 0 1
+x 2 2
+o 0 2
+x 1 0
+o 2 1
+x 2 0
+o 1 1
+ENDGAME
+NEWGAME Misty Brock
+x 2 0
+o 1 1
+x 2 2
+o 1 2
+x 0 2
+o 1 0
+ENDGAME
+NEWGAME Gary Ash
+x 1 1
+o 0 0
+x 0 2
+o 2 1
+x 1 2
+o 2 2
+x 2 0
+ENDGAME
+NEWGAME Jessie Brock
+x 2 2
+o 0 2
+x 0 1
+o 1 2
+x 2 1
+o 0 0
+ENDGAME
+NEWGAME Ash Jessie
+x 2 2
+o 1 1
+x 0 1
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Ash Gary
+x 0 0
+o 1 1
+x 1 2
+o 0 2
+x 1 0
+o 2 1
+x 0 1
+o 2 0
+ENDGAME
+NEWGAME James Misty
+x 0 2
+ENDGAME
+NEWGAME Gary Misty
+x 0 1
+o 2 2
+x 0 2
+o 1 1
+x 2 0
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME Brock Ash
+x 0 1
+o 1 0
+x 1 1
+o 0 2
+x 1 2
+o 2 1
+x 2 0
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME Gary Ash
+x 1 1
+o 0 0
+x 1 2
+o 0 2
+x 2 2
+o 2 0
+x 1 0
+ENDGAME
+NEWGAME Jessie Gary
+x 2 1
+o 1 1
+ENDGAME
+NEWGAME Brock Jessie
+x 0 1
+o 1 1
+x 0 2
+o 1 0
+x 2 0
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME Misty Jessie
+x 1 0
+o 2 2
+x 1 2
+o 2 0
+x 0 2
+o 1 1
+x 0 0
+o 0 1
+x 2 1
+ENDGAME
+NEWGAME Gary Ash
+x 2 2
+o 0 0
+x 2 1
+o 1 1
+x 1 2
+o 2 0
+x 1 0
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Ash Gary
+x 1 1
+o 0 0
+x 2 0
+o 1 0
+x 2 1
+o 2 2
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME James Ash
+x 1 1
+ENDGAME
+NEWGAME James Jessie
+x 0 2
+ENDGAME
+NEWGAME James Ash
+x 2 1
+o 2 2
+ENDGAME
+NEWGAME James Gary
+x 2 1
+o 2 2
+x 0 0
+o 1 2
+x 0 1
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Gary Ash
+x 0 1
+o 1 1
+x 2 1
+o 2 2
+x 1 0
+o 1 2
+x 0 2
+o 0 0
+ENDGAME
+NEWGAME Misty Brock
+x 1 1
+o 2 2
+ENDGAME
+NEWGAME Gary Ash
+x 0 2
+o 0 0
+x 2 1
+o 0 1
+x 1 2
+o 2 2
+x 1 0
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Ash James
+x 0 2
+o 2 2
+ENDGAME
+NEWGAME Ash Brock
+x 1 2
+o 2 0
+x 2 1
+o 2 2
+ENDGAME
+NEWGAME Jessie Brock
+x 2 1
+o 0 2
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME Jessie Misty
+x 1 2
+o 1 0
+ENDGAME
+NEWGAME James Gary
+x 2 0
+o 1 1
+x 2 2
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Misty James
+x 1 1
+o 1 0
+x 0 2
+ENDGAME
+NEWGAME James Misty
+x 2 2
+ENDGAME
+NEWGAME Gary Brock
+x 0 0
+o 1 2
+x 1 0
+o 0 1
+x 2 1
+ENDGAME
+NEWGAME Jessie Brock
+x 2 0
+o 1 0
+x 2 1
+o 1 1
+x 0 1
+o 1 2
+ENDGAME
+NEWGAME Ash Misty
+x 2 0
+o 2 1
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+o 2 2
+x 1 1
+o 0 0
+x 0 2
+ENDGAME
+NEWGAME Jessie Brock
+x 0 2
+o 1 2
+x 2 1
+o 0 0
+x 1 1
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME James Brock
+x 0 1
+o 2 2
+x 2 0
+o 1 0
+x 1 2
+o 2 1
+x 0 0
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Ash James
+x 1 0
+o 2 0
+x 0 0
+o 2 2
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Brock Jessie
+x 1 2
+o 0 0
+x 1 0
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME Jessie Ash
+x 2 1
+o 1 2
+x 2 2
+o 1 0
+x 0 2
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME Gary Brock
+x 2 0
+o 0 2
+x 0 1
+o 2 2
+ENDGAME
+NEWGAME James Brock
+x 0 1
+o 0 2
+x 1 2
+o 2 0
+x 1 0
+o 2 2
+x 2 1
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Misty Jessie
+x 1 1
+o 1 0
+x 0 1
+ENDGAME
+NEWGAME Ash Brock
+x 1 2
+o 2 0
+x 0 1
+o 0 0
+x 2 1
+o 2 2
+x 1 0
+o 1 1
+ENDGAME
+NEWGAME Brock James
+x 0 1
+o 1 0
+ENDGAME
+NEWGAME Jessie James
+x 1 2
+o 2 2
+x 1 1
+o 1 0
+ENDGAME
+NEWGAME Ash Gary
+x 0 1
+o 0 0
+x 2 1
+o 1 1
+x 1 2
+o 2 0
+x 1 0
+o 0 2
+ENDGAME
+NEWGAME James Misty
+x 1 1
+o 1 0
+x 1 2
+o 2 0
+x 0 1
+o 0 0
+ENDGAME
+NEWGAME Jessie Gary
+x 2 1
+o 1 1
+x 1 2
+o 1 0
+x 2 2
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME Misty Gary
+x 0 1
+o 2 0
+x 1 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME James Ash
+x 2 0
+o 1 0
+x 0 0
+o 2 2
+ENDGAME
+NEWGAME Misty James
+x 2 1
+o 1 0
+x 0 0
+o 2 2
+x 0 2
+o 0 1
+x 2 0
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Gary Ash
+x 2 1
+o 2 0
+x 1 1
+o 0 0
+x 1 2
+o 2 2
+x 1 0
+ENDGAME
+NEWGAME Ash Brock
+x 1 0
+o 2 2
+x 1 1
+o 2 0
+x 0 0
+o 2 1
+ENDGAME
+NEWGAME Ash James
+x 0 2
+o 1 2
+x 1 1
+o 2 1
+x 1 0
+o 2 2
+x 0 1
+ENDGAME
+NEWGAME Brock Ash
+x 0 2
+o 1 2
+x 2 2
+o 1 1
+x 0 1
+o 2 0
+x 1 0
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Ash James
+x 0 2
+ENDGAME
+NEWGAME Brock Jessie
+x 1 1
+o 0 2
+x 2 2
+o 0 1
+ENDGAME
+NEWGAME Ash Gary
+x 2 0
+o 1 1
+x 2 2
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME Gary Brock
+x 1 1
+o 2 0
+x 1 2
+o 2 2
+x 1 0
+ENDGAME
+NEWGAME James Gary
+x 0 0
+o 1 1
+x 2 1
+o 2 0
+x 1 0
+o 0 2
+ENDGAME
+NEWGAME Jessie Gary
+x 1 2
+o 2 0
+x 2 2
+o 1 1
+ENDGAME
+NEWGAME Misty Ash
+x 2 1
+ENDGAME
+NEWGAME Misty Ash
+x 0 1
+o 1 0
+x 1 1
+o 2 0
+x 2 1
+ENDGAME
+NEWGAME Gary Ash
+x 2 0
+o 0 2
+x 0 0
+o 2 2
+x 1 1
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Gary Brock
+x 2 2
+o 1 0
+x 0 2
+o 2 1
+x 0 1
+ENDGAME
+NEWGAME Ash James
+x 2 0
+o 0 1
+x 1 2
+ENDGAME
+NEWGAME Ash Misty
+x 2 1
+o 1 1
+x 2 0
+o 0 2
+x 0 0
+ENDGAME
+NEWGAME Ash James
+x 2 2
+o 1 1
+x 2 0
+o 1 0
+x 0 1
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Jessie Gary
+x 0 0
+o 0 2
+x 1 2
+ENDGAME
+NEWGAME Brock Ash
+x 0 2
+o 2 0
+x 2 2
+o 1 0
+x 0 1
+o 2 1
+x 1 1
+o 1 2
+x 0 0
+ENDGAME
+NEWGAME Jessie Gary
+x 0 1
+o 2 1
+x 2 2
+o 0 2
+x 1 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 1
+o 0 1
+x 1 2
+o 2 2
+x 0 2
+o 1 1
+x 1 0
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Misty Gary
+x 1 2
+o 1 0
+x 2 0
+o 0 1
+x 2 2
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Gary Jessie
+x 0 1
+o 1 0
+ENDGAME
+NEWGAME Jessie Brock
+x 2 1
+o 1 0
+x 0 0
+o 1 2
+x 2 2
+o 0 2
+x 2 0
+ENDGAME
+NEWGAME Gary Ash
+x 0 1
+o 1 2
+x 2 1
+o 0 2
+x 1 0
+o 0 0
+x 2 0
+o 1 1
+x 2 2
+ENDGAME
+NEWGAME Gary Misty
+x 2 2
+o 0 0
+x 0 1
+o 1 0
+x 2 0
+o 0 2
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME Misty Jessie
+x 1 0
+o 2 1
+x 0 1
+o 1 2
+x 0 0
+o 2 0
+x 0 2
+ENDGAME
+NEWGAME Jessie Brock
+x 2 2
+o 1 0
+x 2 1
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME James Ash
+x 0 1
+o 0 2
+x 2 2
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Brock Ash
+x 1 2
+o 2 1
+x 0 2
+o 1 0
+x 0 0
+o 2 2
+x 2 0
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Gary Misty
+x 1 2
+o 0 0
+x 1 0
+o 1 1
+x 2 1
+o 2 2
+ENDGAME
+NEWGAME Ash Misty
+x 2 0
+o 2 2
+x 0 2
+o 1 1
+x 1 2
+o 0 0
+ENDGAME
+NEWGAME Misty Jessie
+x 2 2
+o 0 0
+x 1 1
+o 2 0
+x 0 2
+o 1 0
+ENDGAME
+NEWGAME James Gary
+x 0 2
+o 2 1
+ENDGAME
+NEWGAME Ash James
+x 0 1
+o 1 1
+x 0 2
+o 2 0
+x 2 2
+o 1 0
+x 0 0
+ENDGAME
+NEWGAME James Ash
+x 1 0
+o 2 1
+ENDGAME
+NEWGAME Misty Brock
+x 1 1
+o 1 0
+x 1 2
+o 0 1
+x 0 0
+o 2 2
+x 2 0
+o 2 1
+x 0 2
+ENDGAME
+NEWGAME Jessie Gary
+x 0 1
+o 0 2
+x 2 0
+o 2 1
+ENDGAME
+NEWGAME James Misty
+x 1 0
+o 2 2
+ENDGAME
+NEWGAME Brock James
+x 1 0
+o 1 2
+x 0 1
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME James Brock
+x 2 0
+o 0 2
+x 0 0
+o 1 2
+x 2 1
+o 1 1
+x 2 2
+ENDGAME
+NEWGAME Jessie Misty
+x 1 0
+o 1 2
+x 2 1
+o 0 0
+x 1 1
+o 0 1
+x 2 2
+o 0 2
+ENDGAME
+NEWGAME James Misty
+x 2 1
+ENDGAME
+NEWGAME James Gary
+x 2 0
+o 1 1
+x 2 2
+o 2 1
+x 0 0
+o 1 0
+x 1 2
+o 0 2
+x 0 1
+ENDGAME
+NEWGAME Jessie Misty
+x 2 0
+o 2 2
+x 1 0
+o 2 1
+x 1 2
+o 0 0
+x 0 2
+o 1 1
+ENDGAME
+NEWGAME James Jessie
+x 0 0
+ENDGAME
+NEWGAME Gary James
+x 1 1
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Misty Jessie
+x 2 1
+o 0 1
+x 2 2
+o 1 1
+x 0 0
+o 1 0
+x 0 2
+o 2 0
+x 1 2
+ENDGAME
+NEWGAME Misty Ash
+x 1 1
+o 2 1
+x 0 1
+o 0 2
+x 2 2
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Jessie James
+x 1 2
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME Jessie James
+x 0 2
+o 1 2
+ENDGAME
+NEWGAME Ash Brock
+x 0 0
+o 1 0
+x 0 2
+o 2 2
+x 1 1
+o 1 2
+x 0 1
+ENDGAME
+NEWGAME Ash Jessie
+x 1 2
+o 1 0
+x 0 0
+o 1 1
+ENDGAME
+NEWGAME Brock Ash
+x 1 0
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Jessie Brock
+x 2 1
+ENDGAME
+NEWGAME James Brock
+x 0 1
+o 1 0
+x 2 2
+o 2 1
+x 1 1
+o 0 2
+x 2 0
+o 0 0
+x 1 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 0
+ENDGAME
+NEWGAME James Jessie
+x 1 0
+o 1 2
+x 0 1
+o 2 1
+x 2 2
+o 1 1
+x 0 2
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME Jessie Ash
+x 1 0
+o 1 2
+x 2 0
+o 2 1
+x 2 2
+o 1 1
+x 0 2
+o 0 0
+x 0 1
+ENDGAME
+NEWGAME James Jessie
+x 0 2
+o 2 1
+x 1 0
+o 0 1
+x 2 0
+o 1 1
+ENDGAME
+NEWGAME James Brock
+x 1 1
+o 1 2
+x 0 1
+ENDGAME
+NEWGAME Misty Ash
+x 1 2
+o 2 2
+x 1 1
+o 0 1
+x 1 0
+ENDGAME
+NEWGAME Ash James
+x 0 2
+o 2 0
+x 2 2
+o 1 1
+x 1 0
+o 0 1
+x 2 1
+o 1 2
+x 0 0
+ENDGAME
+NEWGAME Misty Jessie
+x 0 2
+o 2 0
+x 2 2
+o 0 1
+x 2 1
+o 1 0
+x 1 1
+o 0 0
+ENDGAME
+NEWGAME Jessie Brock
+x 1 0
+o 0 0
+x 0 2
+o 2 2
+ENDGAME
+NEWGAME Brock James
+x 0 1
+o 2 0
+x 1 1
+o 0 2
+x 0 0
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME James Ash
+x 0 2
+o 2 2
+x 1 2
+o 2 0
+x 1 0
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Ash Jessie
+x 0 2
+o 1 2
+x 2 1
+o 0 1
+x 2 2
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Brock Ash
+x 2 1
+o 2 0
+x 0 2
+o 0 1
+x 1 2
+ENDGAME
+NEWGAME James Jessie
+x 2 0
+o 1 0
+x 0 2
+o 2 1
+x 1 2
+o 1 1
+x 2 2
+ENDGAME
+NEWGAME Brock Misty
+x 0 2
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Jessie Gary
+x 2 2
+o 1 1
+x 0 0
+o 2 0
+x 1 2
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Brock Jessie
+x 2 0
+o 0 0
+x 1 1
+o 1 0
+ENDGAME
+NEWGAME Gary Jessie
+x 1 1
+o 1 0
+x 2 0
+o 0 0
+x 2 1
+ENDGAME
+NEWGAME Jessie Misty
+x 2 1
+o 2 0
+x 2 2
+o 1 2
+x 0 2
+o 1 1
+ENDGAME
+NEWGAME James Gary
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME James Ash
+x 1 2
+ENDGAME
+NEWGAME Ash James
+x 0 2
+o 1 2
+x 1 1
+o 2 2
+x 0 0
+o 1 0
+ENDGAME
+NEWGAME Jessie Ash
+x 2 0
+o 1 2
+x 0 1
+o 1 1
+x 0 0
+o 1 0
+ENDGAME
+NEWGAME Gary James
+x 1 2
+o 2 0
+x 0 2
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Ash Jessie
+x 0 0
+o 2 0
+x 2 1
+o 1 0
+x 2 2
+o 0 2
+x 1 2
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Jessie James
+x 2 0
+o 0 1
+x 0 2
+o 1 0
+x 1 1
+ENDGAME
+NEWGAME James Jessie
+x 0 0
+o 0 1
+x 0 2
+o 2 2
+x 2 0
+o 2 1
+x 1 2
+o 1 0
+x 1 1
+ENDGAME
+NEWGAME Brock Misty
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME James Brock
+x 2 0
+o 0 1
+x 0 2
+o 1 1
+x 0 0
+ENDGAME
+NEWGAME Jessie James
+x 0 0
+o 2 2
+x 1 2
+o 0 1
+x 2 1
+o 0 2
+x 1 0
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME Gary Brock
+x 1 1
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Ash James
+x 1 1
+o 1 2
+x 0 1
+o 1 0
+x 2 0
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Misty Ash
+x 1 2
+o 0 2
+x 2 1
+o 2 0
+x 0 1
+o 0 0
+x 1 0
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 0 0
+o 2 0
+x 1 1
+o 0 2
+x 1 2
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Ash Misty
+x 0 2
+o 2 0
+x 1 0
+o 2 1
+x 1 1
+o 0 0
+x 0 1
+o 2 2
+ENDGAME
+NEWGAME Brock Misty
+x 2 2
+o 0 2
+x 2 0
+o 2 1
+x 0 1
+o 1 0
+x 0 0
+o 1 1
+x 1 2
+ENDGAME
+NEWGAME Gary Ash
+x 0 2
+o 0 0
+x 2 1
+o 2 0
+x 0 1
+o 1 0
+ENDGAME
+NEWGAME Jessie Ash
+x 1 0
+o 1 1
+x 0 2
+o 2 0
+x 2 2
+o 0 0
+x 1 2
+ENDGAME
+NEWGAME Misty Gary
+x 1 1
+o 1 2
+x 0 1
+o 0 2
+x 2 2
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Brock James
+x 0 1
+o 2 1
+x 0 2
+o 0 0
+x 1 0
+o 1 1
+ENDGAME
+NEWGAME Gary Misty
+x 2 1
+o 0 0
+x 0 2
+o 1 2
+x 1 0
+ENDGAME
+NEWGAME Misty Gary
+x 2 0
+o 2 2
+x 1 0
+o 2 1
+x 0 2
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Jessie James
+x 1 0
+o 2 2
+x 0 0
+o 2 0
+x 0 1
+o 0 2
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME Ash Misty
+x 1 0
+o 0 0
+x 2 1
+o 2 0
+x 1 1
+o 1 2
+x 2 2
+o 0 2
+x 0 1
+ENDGAME
+NEWGAME James Brock
+x 1 1
+o 0 2
+ENDGAME
+NEWGAME Gary Jessie
+x 0 1
+o 1 2
+ENDGAME
+NEWGAME James Brock
+x 0 1
+ENDGAME
+NEWGAME Jessie James
+x 2 0
+o 0 2
+x 0 1
+o 2 1
+x 0 0
+o 1 0
+x 2 2
+o 1 1
+x 1 2
+ENDGAME
+NEWGAME Gary Brock
+x 1 0
+o 0 1
+x 2 2
+o 1 2
+x 2 1
+o 0 2
+x 1 1
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Jessie Misty
+x 1 1
+o 2 2
+x 0 1
+o 0 0
+x 2 0
+o 2 1
+x 1 0
+o 1 2
+x 0 2
+ENDGAME
+NEWGAME Brock Misty
+x 2 2
+o 0 0
+x 1 2
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Gary Brock
+x 1 2
+o 1 0
+x 2 0
+o 0 2
+x 0 1
+o 2 2
+x 1 1
+o 2 1
+x 0 0
+ENDGAME
+NEWGAME Brock Misty
+x 0 1
+o 2 1
+x 2 2
+o 0 2
+x 1 1
+o 1 2
+x 0 0
+ENDGAME
+NEWGAME Brock Misty
+x 0 2
+o 1 0
+x 2 0
+o 2 1
+x 0 1
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Misty Ash
+x 2 1
+o 2 2
+x 0 2
+o 2 0
+x 1 2
+o 1 0
+x 0 0
+o 1 1
+x 0 1
+ENDGAME
+NEWGAME Brock Misty
+x 1 2
+o 2 0
+ENDGAME
+NEWGAME Brock Gary
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME Jessie Brock
+x 2 2
+o 0 1
+x 2 0
+o 1 0
+ENDGAME
+NEWGAME Brock Gary
+x 0 1
+o 2 0
+x 2 1
+o 1 2
+x 1 0
+ENDGAME
+NEWGAME Gary Ash
+x 0 1
+o 2 0
+x 2 2
+o 2 1
+x 0 2
+o 1 2
+x 1 0
+o 1 1
+x 0 0
+ENDGAME
+NEWGAME Ash Jessie
+x 1 2
+o 0 2
+x 1 1
+o 2 0
+x 0 0
+o 2 1
+x 0 1
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME James Brock
+x 2 0
+o 0 2
+x 1 0
+o 1 2
+ENDGAME
+NEWGAME Brock James
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME Ash James
+x 0 0
+o 2 0
+x 2 1
+o 0 1
+x 1 1
+o 1 2
+x 0 2
+ENDGAME
+NEWGAME Misty Jessie
+x 1 2
+o 2 1
+x 2 2
+o 0 2
+x 2 0
+o 0 0
+x 1 0
+o 1 1
+x 0 1
+ENDGAME
+NEWGAME Gary Misty
+x 1 1
+o 0 2
+x 1 2
+o 2 0
+x 1 0
+ENDGAME
+NEWGAME Gary James
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Misty Brock
+x 1 2
+o 2 0
+x 2 2
+o 2 1
+x 0 2
+ENDGAME
+NEWGAME Gary James
+x 0 0
+o 0 2
+x 1 1
+ENDGAME
+NEWGAME Misty Brock
+x 1 1
+o 0 1
+x 1 2
+o 2 2
+x 0 0
+o 1 0
+ENDGAME
+NEWGAME Gary Ash
+x 1 1
+o 0 2
+x 0 0
+o 2 1
+x 1 0
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME Misty Jessie
+x 1 2
+o 2 0
+ENDGAME
+NEWGAME Gary Jessie
+x 1 2
+o 0 1
+x 0 0
+o 1 1
+x 2 1
+o 2 2
+x 0 2
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Gary Brock
+x 2 0
+o 0 0
+x 2 2
+ENDGAME
+NEWGAME Ash Jessie
+x 2 0
+o 0 2
+x 1 0
+o 2 1
+x 0 0
+ENDGAME
+NEWGAME Brock Misty
+x 2 1
+ENDGAME
+NEWGAME Ash Misty
+x 1 0
+o 1 1
+x 0 1
+ENDGAME
+NEWGAME James Ash
+x 2 1
+o 0 1
+x 2 0
+ENDGAME
+NEWGAME Ash Brock
+x 2 2
+o 2 1
+x 0 1
+o 1 2
+x 1 1
+o 2 0
+x 0 2
+o 1 0
+x 0 0
+ENDGAME
+NEWGAME Brock Jessie
+x 0 2
+o 2 1
+x 0 0
+o 1 2
+x 1 1
+o 1 0
+x 2 0
+ENDGAME
+NEWGAME Jessie Brock
+x 0 2
+o 2 1
+x 1 0
+o 0 0
+x 2 0
+o 2 2
+x 1 1
+ENDGAME
+NEWGAME Misty Jessie
+x 1 1
+o 0 0
+x 0 1
+o 1 0
+x 1 2
+o 2 2
+x 0 2
+o 2 0
+ENDGAME
+NEWGAME James Jessie
+x 0 1
+ENDGAME
+NEWGAME Jessie Gary
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME Ash Jessie
+x 1 0
+ENDGAME
+NEWGAME Brock Gary
+x 0 0
+o 2 0
+x 2 2
+o 0 1
+x 1 2
+o 2 1
+x 1 0
+o 1 1
+ENDGAME
+NEWGAME James Brock
+x 0 1
+o 0 0
+x 2 0
+o 1 2
+x 0 2
+o 1 1
+x 2 2
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Brock James
+x 1 1
+o 1 0
+x 0 2
+o 2 2
+x 1 2
+o 0 1
+ENDGAME
+NEWGAME James Ash
+x 2 0
+o 1 1
+ENDGAME
+NEWGAME Jessie Brock
+x 2 0
+o 0 2
+x 1 2
+o 0 0
+x 1 0
+ENDGAME
+NEWGAME James Brock
+x 2 2
+o 2 0
+x 0 0
+o 1 1
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME Ash Misty
+x 0 0
+o 1 1
+x 0 1
+o 2 1
+x 2 0
+o 0 2
+x 1 0
+ENDGAME
+NEWGAME Brock Misty
+x 2 2
+o 1 2
+x 0 1
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME Gary Brock
+x 2 2
+o 2 0
+x 1 2
+o 0 1
+x 2 1
+o 0 0
+x 1 1
+o 1 0
+ENDGAME
+NEWGAME Misty Brock
+x 0 1
+o 1 0
+x 0 2
+o 1 1
+x 0 0
+ENDGAME
+NEWGAME Brock Jessie
+x 2 1
+ENDGAME
+NEWGAME Gary James
+x 0 1
+o 2 1
+x 0 0
+o 1 2
+ENDGAME
+NEWGAME Misty Ash
+x 2 2
+o 0 0
+x 1 2
+ENDGAME
+NEWGAME Jessie Brock
+x 0 0
+ENDGAME
+NEWGAME Gary Misty
+x 2 0
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Brock Ash
+x 1 2
+o 2 2
+x 0 2
+o 1 0
+x 0 1
+o 2 1
+x 1 1
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME James Brock
+x 1 1
+o 1 2
+x 0 2
+o 2 1
+x 2 2
+o 2 0
+x 1 0
+o 0 0
+x 0 1
+ENDGAME
+NEWGAME Gary Misty
+x 1 2
+o 2 0
+x 2 2
+o 1 0
+x 0 2
+ENDGAME
+NEWGAME Ash James
+x 2 0
+ENDGAME
+NEWGAME Brock Misty
+x 1 2
+o 0 1
+x 0 2
+o 2 0
+x 2 2
+ENDGAME
+NEWGAME Gary Brock
+x 1 2
+o 2 0
+x 0 2
+o 2 2
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Ash Brock
+x 1 0
+ENDGAME
+NEWGAME Jessie Misty
+x 1 1
+o 2 0
+x 1 0
+o 0 0
+x 0 2
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Gary Brock
+x 2 0
+o 1 0
+x 0 2
+o 2 2
+x 0 0
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Misty Gary
+x 2 1
+o 0 0
+x 2 0
+o 2 2
+x 1 0
+o 1 1
+ENDGAME
+NEWGAME Misty James
+x 0 1
+o 1 1
+x 0 2
+ENDGAME
+NEWGAME James Misty
+x 0 2
+o 0 0
+x 2 1
+o 1 0
+x 2 2
+o 1 1
+x 1 2
+ENDGAME
+NEWGAME Misty Ash
+x 2 0
+o 2 1
+x 0 1
+o 0 2
+ENDGAME
+NEWGAME James Brock
+x 0 2
+o 2 0
+x 1 0
+o 2 1
+ENDGAME
+NEWGAME James Brock
+x 2 1
+o 0 0
+x 0 2
+o 1 0
+x 2 2
+o 2 0
+ENDGAME
+NEWGAME Brock James
+x 0 1
+o 2 2
+x 2 1
+ENDGAME
+NEWGAME James Gary
+x 1 0
+o 0 1
+x 2 0
+o 2 1
+x 1 1
+o 0 2
+x 2 2
+ENDGAME
+NEWGAME Misty Ash
+x 0 1
+o 1 0
+x 1 1
+o 2 2
+x 2 0
+o 1 2
+ENDGAME
+NEWGAME Misty Brock
+x 2 2
+o 0 0
+x 1 0
+o 0 2
+x 2 0
+o 2 1
+ENDGAME
+NEWGAME Jessie James
+x 0 2
+o 2 0
+x 0 1
+o 0 0
+x 2 2
+o 1 2
+x 1 0
+o 1 1
+x 2 1
+ENDGAME
+NEWGAME Gary Jessie
+x 2 1
+o 2 2
+ENDGAME
+NEWGAME Misty Jessie
+x 0 2
+o 0 0
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Ash Brock
+x 2 1
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME James Ash
+x 0 0
+o 1 1
+x 1 2
+o 0 1
+x 1 0
+o 0 2
+x 2 0
+ENDGAME
+NEWGAME Brock Jessie
+x 1 0
+o 2 0
+x 1 1
+o 0 1
+x 2 2
+o 1 2
+x 2 1
+ENDGAME
+NEWGAME Ash James
+x 2 1
+ENDGAME
+NEWGAME James Misty
+x 0 0
+o 1 0
+x 1 2
+o 1 1
+x 0 2
+o 0 1
+x 2 1
+o 2 0
+x 2 2
+ENDGAME
+NEWGAME Misty James
+x 2 0
+o 2 1
+ENDGAME
+NEWGAME Misty Ash
+x 0 1
+ENDGAME
+NEWGAME Ash James
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Jessie Ash
+x 0 1
+o 1 1
+x 0 2
+o 1 0
+x 2 1
+o 2 0
+x 1 2
+o 2 2
+x 0 0
+ENDGAME
+NEWGAME Misty Brock
+x 0 0
+o 2 1
+x 1 0
+o 2 2
+x 1 1
+o 0 2
+x 1 2
+ENDGAME
+NEWGAME Gary Brock
+x 1 0
+ENDGAME
+NEWGAME Misty Brock
+x 2 2
+o 0 2
+x 2 1
+o 2 0
+x 1 1
+o 1 2
+x 0 0
+ENDGAME
+NEWGAME Jessie Gary
+x 2 1
+o 1 1
+x 2 2
+o 0 2
+x 1 0
+o 1 2
+x 0 0
+o 2 0
+ENDGAME
+NEWGAME Jessie James
+x 0 2
+ENDGAME
+NEWGAME James Jessie
+x 0 0
+o 2 1
+x 1 0
+o 2 2
+x 1 2
+o 0 2
+x 0 1
+o 2 0
+ENDGAME
+NEWGAME James Jessie
+x 0 0
+o 1 0
+x 2 0
+o 0 1
+x 1 1
+o 0 2
+x 2 1
+o 2 2
+x 1 2
+ENDGAME
+NEWGAME Misty Ash
+x 1 2
+ENDGAME
+NEWGAME Gary Jessie
+x 0 2
+o 1 2
+x 0 0
+o 2 1
+x 2 2
+ENDGAME
+NEWGAME Brock James
+x 2 0
+o 1 1
+x 1 2
+o 0 1
+x 2 2
+o 0 2
+ENDGAME
+NEWGAME Gary Jessie
+x 1 1
+o 2 1
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME Gary Brock
+x 1 1
+o 1 2
+x 0 2
+ENDGAME
+NEWGAME Ash Misty
+x 0 0
+o 1 2
+x 1 1
+o 2 2
+x 0 1
+o 2 1
+x 1 0
+o 0 2
+ENDGAME
+NEWGAME Gary Jessie
+x 0 0
+o 1 0
+x 2 2
+o 2 1
+x 2 0
+o 1 2
+x 0 1
+o 1 1
+ENDGAME
+NEWGAME Misty Gary
+x 2 1
+o 1 1
+x 0 0
+o 2 0
+x 1 0
+o 1 2
+x 2 2
+o 0 2
+ENDGAME
+NEWGAME James Misty
+x 0 2
+o 0 0
+x 2 0
+o 1 1
+ENDGAME
+NEWGAME Jessie James
+x 1 2
+o 2 2
+x 1 0
+o 0 1
+x 2 1
+o 0 2
+x 0 0
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME James Gary
+x 2 0
+o 0 1
+x 0 2
+o 1 0
+x 0 0
+o 2 1
+x 2 2
+o 1 1
+ENDGAME
+NEWGAME Jessie Misty
+x 0 0
+o 1 1
+x 2 2
+o 1 0
+x 2 1
+o 2 0
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME Jessie Misty
+x 2 1
+o 2 2
+x 0 2
+o 0 1
+x 1 1
+o 1 0
+x 0 0
+o 2 0
+x 1 2
+ENDGAME
+NEWGAME Misty James
+x 1 0
+o 2 0
+x 1 2
+o 0 2
+x 0 0
+o 2 2
+x 0 1
+o 2 1
+ENDGAME
+NEWGAME Brock Jessie
+x 2 1
+ENDGAME
+NEWGAME Misty Gary
+x 1 2
+ENDGAME
+NEWGAME Ash Misty
+x 0 0
+o 0 1
+x 1 0
+o 0 2
+x 1 2
+o 1 1
+x 2 1
+o 2 0
+ENDGAME
+NEWGAME Ash James
+x 2 2
+o 1 1
+x 2 1
+o 0 0
+x 0 1
+o 2 0
+ENDGAME
+NEWGAME Ash Gary
+x 2 2
+o 1 1
+x 2 0
+o 1 0
+ENDGAME
+NEWGAME Gary Ash
+x 2 1
+o 0 2
+x 1 2
+o 1 0
+x 0 0
+ENDGAME
+NEWGAME James Jessie
+x 0 1
+o 2 0
+x 0 0
+o 1 1
+x 2 1
+o 1 2
+x 1 0
+o 2 2
+x 0 2
+ENDGAME
+NEWGAME Jessie Brock
+x 1 1
+o 0 2
+x 2 2
+o 0 0
+x 2 0
+o 1 0
+x 0 1
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Jessie Gary
+x 0 2
+o 2 0
+x 1 0
+ENDGAME
+NEWGAME Misty Ash
+x 1 1
+o 0 0
+x 2 0
+o 2 1
+x 1 2
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Jessie Brock
+x 2 0
+o 2 1
+x 2 2
+o 0 0
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME Misty Brock
+x 2 2
+o 0 2
+x 2 0
+o 0 0
+x 1 1
+o 0 1
+ENDGAME
+NEWGAME James Brock
+x 0 2
+o 1 0
+ENDGAME
+NEWGAME James Brock
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME Jessie Brock
+x 0 1
+o 1 0
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME Misty Jessie
+x 0 2
+o 0 1
+x 0 0
+o 2 2
+x 1 2
+ENDGAME
+NEWGAME Ash Misty
+x 2 0
+o 1 0
+x 0 0
+o 0 1
+ENDGAME
+NEWGAME James Misty
+x 2 1
+o 1 2
+x 0 0
+o 1 1
+x 0 1
+ENDGAME
+NEWGAME James Gary
+x 2 2
+o 2 0
+x 0 0
+o 2 1
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME Ash Misty
+x 1 2
+ENDGAME
+NEWGAME Gary Ash
+x 1 0
+o 1 2
+x 0 2
+o 2 1
+x 2 2
+o 0 1
+x 0 0
+o 1 1
+ENDGAME
+NEWGAME Gary Jessie
+x 2 1
+o 2 2
+x 2 0
+ENDGAME
+NEWGAME James Ash
+x 2 2
+o 2 0
+x 0 2
+o 1 1
+x 1 2
+ENDGAME
+NEWGAME James Ash
+x 0 0
+o 0 2
+x 1 0
+o 2 1
+x 2 2
+o 0 1
+x 1 2
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME James Jessie
+x 2 1
+o 0 0
+x 1 2
+ENDGAME
+NEWGAME Gary Jessie
+x 2 2
+o 1 1
+x 0 0
+ENDGAME
+NEWGAME Ash James
+x 0 1
+o 1 2
+x 1 1
+o 2 2
+x 0 2
+o 2 0
+x 0 0
+ENDGAME
+NEWGAME Ash Misty
+x 0 1
+o 1 1
+x 1 2
+o 2 2
+x 0 2
+o 2 0
+x 2 1
+o 0 0
+ENDGAME
+NEWGAME James Ash
+x 0 1
+o 1 2
+x 1 0
+o 2 2
+x 2 0
+o 0 0
+x 1 1
+o 0 2
+ENDGAME
+NEWGAME Misty Gary
+x 2 2
+o 0 2
+x 1 2
+o 0 0
+x 2 0
+o 1 0
+x 2 1
+ENDGAME
+NEWGAME Ash Misty
+x 2 2
+o 1 2
+ENDGAME
+NEWGAME Gary Ash
+x 1 1
+o 1 2
+x 0 1
+o 2 0
+x 0 0
+o 2 1
+x 1 0
+o 0 2
+x 2 2
+ENDGAME
+NEWGAME Brock Jessie
+x 2 0
+o 0 1
+x 2 1
+o 1 2
+x 0 0
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME Misty Gary
+x 2 0
+o 1 1
+x 0 0
+o 0 1
+x 2 1
+o 1 0
+x 2 2
+ENDGAME
+NEWGAME Misty Brock
+x 0 1
+o 2 2
+x 2 0
+o 1 1
+x 1 2
+o 2 1
+ENDGAME
+NEWGAME James Gary
+x 0 1
+o 1 2
+x 1 1
+o 2 0
+x 0 2
+o 1 0
+x 2 2
+o 2 1
+x 0 0
+ENDGAME
+NEWGAME Gary Misty
+x 0 0
+o 0 1
+x 2 2
+o 1 2
+x 2 1
+o 0 2
+x 1 0
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME Gary Brock
+x 0 0
+o 1 1
+x 2 1
+o 2 0
+x 1 0
+o 2 2
+x 1 2
+o 0 1
+x 0 2
+ENDGAME
+NEWGAME Misty Jessie
+x 1 0
+o 2 0
+x 1 2
+o 2 1
+x 1 1
+ENDGAME
+NEWGAME Jessie Ash
+x 2 2
+o 0 2
+x 1 0
+o 1 2
+x 2 0
+o 0 1
+x 2 1
+ENDGAME
+NEWGAME Ash Gary
+x 2 0
+o 0 2
+x 1 2
+o 0 0
+x 1 0
+o 2 2
+x 0 1
+o 1 1
+ENDGAME
+NEWGAME Jessie James
+x 2 1
+o 0 2
+x 2 0
+o 0 0
+x 2 2
+ENDGAME
+NEWGAME Brock Ash
+x 2 2
+o 0 2
+x 0 1
+o 1 2
+x 2 0
+o 0 0
+x 1 1
+o 2 1
+x 1 0
+ENDGAME
+NEWGAME Brock Ash
+x 1 2
+o 1 0
+ENDGAME
+NEWGAME Gary Misty
+x 0 1
+o 2 2
+x 0 0
+o 1 0
+ENDGAME
+NEWGAME Gary James
+x 2 1
+o 1 2
+x 1 1
+o 0 2
+x 2 2
+o 1 0
+ENDGAME
+NEWGAME Gary Jessie
+x 0 0
+o 1 1
+x 2 0
+o 1 2
+x 0 2
+o 1 0
+ENDGAME
+NEWGAME Brock Gary
+x 1 2
+o 0 2
+x 0 1
+o 2 0
+x 1 0
+o 0 0
+ENDGAME
+NEWGAME Gary Jessie
+x 1 2
+o 2 1
+x 0 0
+o 2 2
+x 0 2
+o 2 0
+ENDGAME
+NEWGAME Misty Brock
+x 0 2
+o 1 2
+x 2 2
+o 0 0
+x 1 1
+o 2 1
+ENDGAME
+NEWGAME James Misty
+x 1 0
+o 2 2
+x 2 0
+o 2 1
+x 1 2
+ENDGAME
+NEWGAME Gary Brock
+x 0 2
+o 1 2
+x 2 0
+o 0 1
+x 1 1
+ENDGAME
+NEWGAME Ash Gary
+x 0 1
+o 2 2
+x 0 2
+o 1 2
+x 1 1
+ENDGAME
+NEWGAME Jessie Ash
+x 0 2
+o 1 2
+x 2 1
+o 0 1
+ENDGAME
+NEWGAME James Gary
+x 2 2
+o 0 0
+x 0 1
+o 1 1
+x 2 0
+o 1 0
+x 0 2
+o 1 2
+ENDGAME
+NEWGAME Misty Jessie
+x 0 0
+ENDGAME
+NEWGAME Ash Gary
+x 1 2
+ENDGAME
+NEWGAME Misty Brock
+x 0 1
+o 0 2
+ENDGAME
+NEWGAME Gary James
+x 1 1
+ENDGAME
+NEWGAME Ash Brock
+x 1 1
+o 0 2
+x 1 2
+o 1 0
+x 0 0
+o 2 0
+ENDGAME
+NEWGAME Jessie Brock
+x 2 1
+o 1 1
+x 0 0
+o 2 0
+x 0 1
+o 0 2
+ENDGAME
+NEWGAME Ash Jessie
+x 0 2
+o 2 1
+x 1 0
+o 2 2
+ENDGAME
+NEWGAME Gary Ash
+x 2 1
+o 0 1
+x 1 1
+o 0 0
+x 1 2
+o 0 2
+ENDGAME
+NEWGAME Ash James
+x 0 0
+o 1 1
+x 1 2
+o 0 2
+x 2 2
+o 2 0
+ENDGAME
+NEWGAME Ash Jessie
+x 1 2
+o 2 0
+x 0 0
+o 0 1
+x 0 2
+o 1 1
+x 2 1
+o 2 2
+x 1 0
+ENDGAME
+NEWGAME Misty Gary
+x 0 1
+o 1 1
+x 2 0
+o 0 2
+x 1 2
+ENDGAME
+NEWGAME Jessie Brock
+x 2 2
+o 2 0
+ENDGAME
+NEWGAME Ash Jessie
+x 2 2
+o 0 0
+ENDGAME
+NEWGAME Ash James
+x 0 2
+ENDGAME
+NEWGAME Brock Misty
+x 0 1
+o 2 1
+x 1 2
+o 0 2
+x 1 0
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Gary Jessie
+x 1 0
+o 1 2
+x 0 0
+o 2 0
+x 1 1
+o 0 2
+x 2 2
+ENDGAME
+NEWGAME Gary Misty
+x 0 1
+o 1 0
+x 2 2
+o 0 0
+x 0 2
+ENDGAME
+NEWGAME Ash Gary
+x 0 1
+o 2 2
+x 1 0
+ENDGAME
+NEWGAME Brock Ash
+x 1 2
+o 1 1
+x 2 2
+o 0 2
+x 2 1
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME Ash Jessie
+x 1 0
+o 0 0
+x 0 2
+o 1 1
+x 2 2
+o 2 1
+x 2 0
+o 0 1
+ENDGAME
+NEWGAME Ash Misty
+x 2 1
+o 1 0
+x 0 1
+o 2 0
+x 1 1
+ENDGAME
+NEWGAME Brock Misty
+x 0 2
+o 2 0
+x 0 1
+o 0 0
+x 2 1
+o 1 1
+x 1 2
+o 1 0
+ENDGAME
+NEWGAME Ash Jessie
+x 2 2
+ENDGAME
+NEWGAME Ash Jessie
+x 0 2
+o 0 0
+x 1 1
+ENDGAME
+NEWGAME Jessie Gary
+x 2 1
+o 1 1
+x 2 2
+o 0 0
+x 2 0
+ENDGAME
+NEWGAME Jessie Misty
+x 1 2
+o 2 0
+x 2 2
+o 0 1
+x 1 1
+o 2 1
+x 0 2
+ENDGAME
+NEWGAME James Jessie
+x 2 0
+o 2 1
+ENDGAME
+NEWGAME Ash James
+x 1 1
+o 1 2
+ENDGAME
+NEWGAME Jessie Ash
+x 0 0
+o 1 1
+x 2 2
+o 1 0
+ENDGAME
+NEWGAME James Jessie
+x 2 1
+o 1 2
+ENDGAME
+NEWGAME Brock Misty
+x 2 0
+o 0 2
+x 0 1
+o 0 0
+x 1 0
+o 2 2
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME Brock Misty
+x 2 1
+o 2 0
+x 0 1
+o 0 0
+x 2 2
+o 0 2
+x 1 2
+o 1 1
+ENDGAME
+NEWGAME Misty James
+x 0 0
+o 1 1
+x 2 0
+ENDGAME
+NEWGAME Jessie Brock
+x 0 0
+o 1 1
+x 2 2
+o 2 0
+x 0 2
+o 1 2
+x 0 1
+ENDGAME
+NEWGAME Misty James
+x 1 1
+o 0 1
+x 1 0
+o 1 2
+x 0 0
+o 2 2
+x 2 0
+ENDGAME
+NEWGAME Jessie Gary
+x 1 0
+o 2 1
+x 0 1
+ENDGAME
+DONE
